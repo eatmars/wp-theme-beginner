@@ -3,13 +3,14 @@
 	<?php if(have_posts()): ?>
  
 			 <?php while (have_posts()): the_post(); ?>
-
-				<h3><?php the_title(); ?></h3>
-			
-				
+ 
 				<p><?php the_content(); ?></p>	
 
-				<small>Posted on: <?php the_time('F j, Y'); ?> at <?php the_time('g:i a' ); ?>, <?php the_category(); ?></small>
+				<h3><?php the_title(); ?></h3>
+
+				<h2>Page 6</h2>
+
+				<!-- use the id of the post the id is 6 so the page name or file name will be page-6 -->
 
 			 <?php endwhile;  ?>
 
