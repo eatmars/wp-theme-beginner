@@ -1,0 +1,2521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: julia\n"
+"POT-Creation-Date: 2017-07-27 12:18+0530\n"
+"PO-Revision-Date: 2017-07-27 12:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_n_noop;esc_html__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:2 ../lib/includes/customizer/theme_customization.php:2529
+msgid "GO TO HOME PAGE"
+msgstr ""
+
+#: ../404.php:7
+msgid "the link you clicked might be currupted, or the page may have removed"
+msgstr ""
+
+#: ../404.php:8 ../lib/includes/customizer/theme_customization.php:2518
+msgid "Sorry, this page does not exist"
+msgstr ""
+
+#: ../comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:28
+#, php-format
+msgid "One Response to %2$s"
+msgstr ""
+
+#: ../comments.php:35 ../comments.php:58
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:81 ../lib/includes/customizer/theme_customization.php:1579
+#: ../lib/includes/customizer/theme_customization.php:2193
+msgid "SUBMIT"
+msgstr ""
+
+#: ../comments.php:85
+msgid "Name Required"
+msgstr ""
+
+#: ../comments.php:87
+msgid "Email Required"
+msgstr ""
+
+#: ../comments.php:88
+msgid "Website URL"
+msgstr ""
+
+#: ../comments.php:91
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:93
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../functions.php:33
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:34
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions.php:70
+msgid "Talent Agency Plugin"
+msgstr ""
+
+#: ../functions.php:80
+msgid "Talent Agency - Talents Shortlist Add On"
+msgstr ""
+
+#: ../functions.php:90
+msgid "Talent Agency - Talent Submission Form"
+msgstr ""
+
+#: ../functions.php:100
+msgid "Kaya Roles Manager"
+msgstr ""
+
+#: ../functions.php:110
+msgid "Talent Agency - Frontend Talent Posting Add On"
+msgstr ""
+
+#: ../functions.php:120
+msgid "Talent Agency - Talents Adavced Search Add on"
+msgstr ""
+
+#: ../functions.php:126
+msgid "Smart Slider 3"
+msgstr ""
+
+#: ../functions.php:143 ../lib/plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:144 ../lib/plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:145 ../lib/plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:146 ../lib/plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:147 ../lib/plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../functions.php:148 ../lib/plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../functions.php:149
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: ../functions.php:150 ../lib/plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../functions.php:153
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme:<br /> %1$s."
+msgstr ""
+
+#: ../functions.php:157 ../lib/plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../functions.php:158
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: ../functions.php:159
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: ../functions.php:160 ../lib/plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../functions.php:161
+msgid "Activate installed plugin"
+msgstr ""
+
+#: ../functions.php:162 ../lib/plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:163 ../lib/plugin-activation.php:394
+#: ../lib/plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:164
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:223
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../functions.php:224
+#, php-format
+msgid "%d "
+msgstr ""
+
+#: ../header.php:29
+msgid "SEARCH"
+msgstr ""
+
+#: ../index.php:25
+msgid "No posts to display"
+msgstr ""
+
+#: ../index.php:26
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../index.php:29 ../search.php:19
+msgid "Nothing Found"
+msgstr ""
+
+#: ../index.php:30
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../loop.php:5 ../lib/includes/customizer/theme_customization.php:1764
+msgid "Read More"
+msgstr ""
+
+#: ../loop.php:106
+msgid "Written by "
+msgstr ""
+
+#: ../loop.php:107
+msgid "Tagged as "
+msgstr ""
+
+#: ../search.php:20
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Search here..."
+msgstr ""
+
+#: ../single.php:6
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: ../single.php:7
+msgid "NEXT POST"
+msgstr ""
+
+#: ../lib/plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../lib/plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../lib/plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: ../lib/plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: ../lib/plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: ../lib/plugin-activation.php:393 ../lib/plugin-activation.php:920
+#: ../lib/plugin-activation.php:2626 ../lib/plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/plugin-activation.php:395 ../lib/plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../lib/plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../lib/plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../lib/plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../lib/plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../lib/plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../lib/plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../lib/plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../lib/plugin-activation.php:1027 ../lib/plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../lib/plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: ../lib/plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../lib/plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3602 ../lib/plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: ../lib/plugin-activation.php:3602 ../lib/plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/functions/common.php:36
+#: ../lib/includes/customizer/theme_customization.php:2689
+#: ../lib/includes/customizer/theme_customization.php:2699
+msgid "YOURMAIL@DOMAIN.COM | +81 5265 854"
+msgstr ""
+
+#: ../lib/functions/common.php:37
+#: ../lib/includes/customizer/theme_customization.php:2704
+#: ../lib/includes/customizer/theme_customization.php:2714
+msgid "Copy rights &copy; 2016 julia.com"
+msgstr ""
+
+#: ../lib/functions/common.php:39
+#: ../lib/includes/customizer/theme_customization.php:2730
+#: ../lib/includes/customizer/theme_customization.php:2740
+msgid "FOLLOW US"
+msgstr ""
+
+#: ../lib/functions/common.php:344
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../lib/functions/common.php:350
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../lib/functions/common.php:356
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../lib/functions/common.php:365
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../lib/functions/common.php:367
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: ../lib/functions/common.php:371
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../lib/functions/common.php:377
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../lib/functions/common.php:381
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../lib/functions/common.php:390
+msgid "Shop"
+msgstr ""
+
+#: ../lib/functions/common.php:398
+msgid "Blog Archives"
+msgstr ""
+
+#: ../lib/functions/common.php:512
+#: ../lib/includes/customizer/theme_customization.php:1543
+msgid "This post has been shared!"
+msgstr ""
+
+#: ../lib/functions/common.php:513
+#: ../lib/includes/customizer/theme_customization.php:1555
+msgid "Email check failed, please try again"
+msgstr ""
+
+#: ../lib/functions/common.php:514
+#: ../lib/includes/customizer/theme_customization.php:1567
+msgid "[Shared Post]"
+msgstr ""
+
+#: ../lib/functions/common.php:635
+msgid "ID"
+msgstr ""
+
+#: ../lib/functions/common.php:723
+msgid "Note for buyers who purchased before 20-12-2016: "
+msgstr ""
+
+#: ../lib/functions/common.php:723
+msgid ""
+"New buyers can ignore this message. You must watch this <a href=\"https://"
+"www.youtube.com/watch?v=3FXBPBDmaCM&feature=youtu.be\" target=\"_blank"
+"\">video</a> before updating \"Talent Agency\" plugin because we made major "
+"changes to \"Talent Options Generator\" which will cause you to lose the "
+"data, so that you must take it backup before updating plugin. We explained "
+"in video how to take backup and re enter the data, if you do like shown in "
+"video you will not lose any thing. Sorry for your convenience."
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:16
+#, php-format
+msgid "%s <span class=\"says\"></span>"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:19 ../lib/functions/kaya_comments.php:81
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:19 ../lib/functions/kaya_comments.php:40
+#: ../lib/functions/kaya_comments.php:81 ../lib/functions/kaya_comments.php:96
+msgid "(Edit)"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:23 ../lib/functions/kaya_comments.php:75
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:29
+msgid "Reply"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:40 ../lib/functions/kaya_comments.php:96
+msgid "Pingback:"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:52
+msgid "Posted In"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:53
+msgid "By "
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:54
+msgid "Leave a comment"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:54
+msgid "1 Comment"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:54
+msgid "% Comments"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:55
+msgid "Edit"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:71
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:109
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:111
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../lib/functions/kaya_comments.php:113
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../lib/functions/widgets/widgets.php:8
+msgid "Sidebar"
+msgstr ""
+
+#: ../lib/functions/widgets/widgets.php:10
+msgid "A widget area, used as a sidebar for Homepage"
+msgstr ""
+
+#: ../lib/includes/advance-search.php:60
+msgid "Default Sorting"
+msgstr ""
+
+#: ../lib/includes/advance-search.php:61
+msgid "Sort By Name"
+msgstr ""
+
+#: ../lib/includes/advance-search.php:62
+msgid "Sort By Date"
+msgstr ""
+
+#: ../lib/includes/advance-search.php:63
+msgid "Menu Order"
+msgstr ""
+
+#: ../lib/includes/advance-search.php:64
+msgid "Sort By Random Order"
+msgstr ""
+
+#: ../lib/includes/advance-search.php:72
+msgid "Descending"
+msgstr ""
+
+#: ../lib/includes/advance-search.php:73
+msgid "Ascending"
+msgstr ""
+
+#: ../lib/includes/advance-search.php:95
+msgid "Choose Talent Type"
+msgstr ""
+
+#: ../lib/includes/footer_general.php:26
+msgid "Copy rights &copy; kayapati.com "
+msgstr ""
+
+#: ../lib/includes/footer_general.php:32
+msgid "Footer Right Section"
+msgstr ""
+
+#: ../lib/includes/header_loads.php:12
+msgid "pleace check recaptcha"
+msgstr ""
+
+#: ../lib/includes/relatedpost.php:9
+#: ../lib/includes/customizer/theme_customization.php:2149
+msgid "Related Articles"
+msgstr ""
+
+#: ../lib/includes/customizer/customizer_controlls.php:120
+msgid "Upload Image"
+msgstr ""
+
+#: ../lib/includes/customizer/customizer_controlls.php:121
+msgid "Remove"
+msgstr ""
+
+#: ../lib/includes/customizer/customizer_controlls.php:248
+msgid "Select Page"
+msgstr ""
+
+#: ../lib/includes/customizer/customizer_controlls.php:281
+msgid "Select Font"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:16
+msgid "Header Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:20
+#: ../lib/includes/customizer/theme_customization.php:125
+#: ../lib/includes/customizer/theme_customization.php:1356
+#: ../lib/includes/customizer/theme_customization.php:1882
+#: ../lib/includes/customizer/theme_customization.php:1999
+#: ../lib/includes/customizer/theme_customization.php:2144
+#: ../lib/includes/customizer/theme_customization.php:2170
+#: ../lib/includes/customizer/theme_customization.php:2645
+msgid " Watch this Video "
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:20
+msgid " to know how to configure Header settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:28
+msgid "Header Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:39
+msgid "Header Border Bottom Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:50
+msgid "Header Margin Top"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:66
+msgid "Header Margin Bottom"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:83
+msgid "Disable Sticky Header"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:95
+msgid "Slider Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:107
+msgid "Enable Slider Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:121
+msgid "Menu Color Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:125
+msgid " to know how to configure Menu settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:132
+msgid "Main Menu Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:141
+#: ../lib/includes/customizer/theme_customization.php:179
+msgid "Links Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:147
+#: ../lib/includes/customizer/theme_customization.php:198
+msgid "Menu Icon Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:152
+msgid "Hover Link color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:159
+#: ../lib/includes/customizer/theme_customization.php:562
+msgid "Active Link Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:165
+msgid "Child Menu Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:173
+msgid "Links Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:186
+msgid "Links Border Top Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:192
+msgid "Links Border Bottom Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:203
+msgid "Links Hover Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:209
+msgid "Links Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:215
+msgid "Link Active Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:221
+msgid "Link Active Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:248
+msgid "Memeber Login Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:252
+msgid ""
+"This section is depricated, all options moved to “Talent Agency > Register / "
+"Login Form”, click "
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:266
+msgid "Header Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:272
+msgid "Logo Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:290
+msgid "Select Header Logo Type"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:293
+msgid "Image Logo"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:294
+#: ../lib/includes/customizer/theme_customization.php:345
+msgid "Text Logo"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:308
+msgid "Upload Logo Image"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:321
+msgid "Enable Retina Logo"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:333
+msgid "Upload Retina Logo Image"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:353
+msgid "Text Logo Font Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:362
+msgid "Logo Font Size"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:379
+msgid "Text Logo Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:382
+#: ../lib/includes/customizer/theme_customization.php:397
+#: ../lib/includes/customizer/theme_customization.php:458
+#: ../lib/includes/customizer/theme_customization.php:473
+#: ../lib/includes/customizer/theme_customization.php:682
+#: ../lib/includes/customizer/theme_customization.php:1839
+#: ../lib/includes/customizer/theme_customization.php:2058
+#: ../lib/includes/customizer/theme_customization.php:2129
+#: ../lib/includes/customizer/theme_customization.php:2269
+#: ../lib/includes/customizer/theme_customization.php:2610
+#: ../lib/includes/customizer/theme_customization.php:2977
+#: ../lib/includes/customizer/theme_customization.php:2992
+#: ../lib/includes/customizer/theme_customization.php:3084
+#: ../lib/includes/customizer/theme_customization.php:3810
+msgid "Normal"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:383
+#: ../lib/includes/customizer/theme_customization.php:459
+#: ../lib/includes/customizer/theme_customization.php:2978
+msgid "Bold"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:394
+msgid "Text Logo Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:398
+#: ../lib/includes/customizer/theme_customization.php:474
+#: ../lib/includes/customizer/theme_customization.php:683
+#: ../lib/includes/customizer/theme_customization.php:1840
+#: ../lib/includes/customizer/theme_customization.php:2059
+#: ../lib/includes/customizer/theme_customization.php:2130
+#: ../lib/includes/customizer/theme_customization.php:2270
+#: ../lib/includes/customizer/theme_customization.php:2611
+#: ../lib/includes/customizer/theme_customization.php:2993
+#: ../lib/includes/customizer/theme_customization.php:3811
+msgid "Italic"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:408
+msgid "Select Logo Font Family"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:427
+msgid "Logo Tag Line"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:438
+msgid "Logo Tag Line Font Size"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:455
+msgid "Logo Tag Line Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:470
+msgid "Logo Tag Line Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:484
+msgid "Logo Tag Line Font Letter Spacing"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:500
+msgid "Select Tag Line Font Family"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:508
+msgid "Logo Tag Line Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:542
+msgid "Pagination Color Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:546
+msgid ""
+"<strong class=\"customizer_note\"> Note: </strong>Color applies for blog "
+"posts, portfolio posts and woocommerce poroducts pagination."
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:552
+#: ../lib/includes/customizer/theme_customization.php:791
+#: ../lib/includes/customizer/theme_customization.php:2919
+msgid "Link Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:557
+#: ../lib/includes/customizer/theme_customization.php:759
+#: ../lib/includes/customizer/theme_customization.php:770
+#: ../lib/includes/customizer/theme_customization.php:832
+#: ../lib/includes/customizer/theme_customization.php:1711
+#: ../lib/includes/customizer/theme_customization.php:1904
+#: ../lib/includes/customizer/theme_customization.php:4016
+#: ../lib/includes/customizer/theme_customization.php:4257
+msgid "Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:567
+msgid "Active Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:593
+msgid "Page Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:598
+msgid "Page Title bar Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:609
+#: ../lib/includes/customizer/theme_customization.php:779
+#: ../lib/includes/customizer/theme_customization.php:838
+#: ../lib/includes/customizer/theme_customization.php:1185
+#: ../lib/includes/customizer/theme_customization.php:1729
+#: ../lib/includes/customizer/theme_customization.php:1910
+#: ../lib/includes/customizer/theme_customization.php:4022
+msgid "Title Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:620
+#: ../lib/includes/customizer/theme_customization.php:844
+#: ../lib/includes/customizer/theme_customization.php:4028
+msgid "Title Border Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:631
+msgid "Title Font Size (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:647
+msgid "Title Letter Space (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:664
+msgid "Title Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:679
+msgid "Title Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:693
+msgid "Title Bar Padding Top & Bottom (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:710
+msgid "Title Position"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:713
+#: ../lib/includes/customizer/theme_customization.php:2501
+msgid "Center"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:714
+#: ../lib/includes/customizer/theme_customization.php:1658
+#: ../lib/includes/customizer/theme_customization.php:1896
+#: ../lib/includes/customizer/theme_customization.php:2502
+#: ../lib/includes/customizer/theme_customization.php:3899
+#: ../lib/includes/customizer/theme_customization.php:3914
+#: ../lib/includes/customizer/theme_customization.php:3929
+msgid "Left"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:715
+#: ../lib/includes/customizer/theme_customization.php:1657
+#: ../lib/includes/customizer/theme_customization.php:1895
+#: ../lib/includes/customizer/theme_customization.php:2503
+#: ../lib/includes/customizer/theme_customization.php:3898
+#: ../lib/includes/customizer/theme_customization.php:3913
+#: ../lib/includes/customizer/theme_customization.php:3928
+msgid "Right"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:744
+msgid "Page Middle Content Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:756
+msgid "Select Background Type"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:760
+msgid "Background Image"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:785
+#: ../lib/includes/customizer/theme_customization.php:1191
+msgid "Content Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:797
+#: ../lib/includes/customizer/theme_customization.php:2930
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:824
+msgid "Page Sidebar Color Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:850
+msgid "Description Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:856
+msgid "List Border Bottom Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:862
+#: ../lib/includes/customizer/theme_customization.php:1197
+#: ../lib/includes/customizer/theme_customization.php:1929
+#: ../lib/includes/customizer/theme_customization.php:4056
+msgid "Hyper Link Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:868
+#: ../lib/includes/customizer/theme_customization.php:1203
+#: ../lib/includes/customizer/theme_customization.php:1935
+#: ../lib/includes/customizer/theme_customization.php:4062
+msgid "Hyper Link Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:874
+msgid "Tag Clouds Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:880
+msgid "Tag Clouds Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:886
+msgid "Tag Clouds Hover Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:892
+msgid "Tag Clouds Hover Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:898
+msgid "Tag Clouds Right Border Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:927
+msgid "Portfolio Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:930
+msgid "Portfolio Slug Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:940
+msgid ""
+"<strong class=\"customizer_note\"> Note: </strong>This section is "
+"depricated, all options moved to “Talent Agency > General”, click "
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:953
+msgid "Portfolio Category Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:956
+msgid ""
+"This section is depricated,  options moved to “Talent Agency > Talent "
+"Category”, click "
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:963
+msgid ""
+"<strong class=\"customizer_note\"> Note: </strong> Use this section when you "
+"use \"Portfolio Categories\" in menu bar "
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:975
+msgid "Disable Image Hover Title"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1007
+msgid "Vertical Title BG Color "
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1013
+msgid "Image Vertical Title Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1022
+msgid "Vertical Title Font size"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1038
+msgid "Vertical Title Letter Spacing"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1055
+msgid "Vertical Title Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1070
+msgid "Vertical Title Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1081
+#: ../lib/includes/customizer/theme_customization.php:1132
+msgid "Model Details BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1087
+msgid "Model Details Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1113
+msgid "Portfolio Single Page Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1123
+msgid "Model Information Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1138
+msgid "Model Information Titles"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1144
+msgid "Model Information Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1152
+msgid "Tabs Color Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1160
+msgid "Tabs BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1166
+msgid "Tabs Title Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1172
+msgid "Tabs Active BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1178
+msgid "Tabs Active BG Link Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1211
+msgid "Slider Next / Prevous Buttons"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1219
+msgid "Slider Arrow Buttons Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1225
+msgid "Slider Arrow Buttons Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1233
+msgid "Comp Card Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1241
+msgid "Compcard Image Title BG"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1247
+msgid "Compcard Image Title Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1253
+msgid "Compcard Model Details Titles Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1259
+msgid "Compcard Model Details Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1267
+msgid "Portfolio Single Page Buttons Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1278
+msgid "Enable Next / Prev Buttons"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1284
+#: ../lib/includes/customizer/theme_customization.php:1950
+msgid "PREVIOUS PROJECT"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1289
+#: ../lib/includes/customizer/theme_customization.php:1955
+msgid "Previous Button Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1295
+#: ../lib/includes/customizer/theme_customization.php:1962
+msgid "NEXT PROJECT"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1300
+#: ../lib/includes/customizer/theme_customization.php:1968
+msgid "Next Button Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1310
+msgid "Portfolio Single Page Comment Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1321
+msgid "Enable Comments"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1352
+msgid "Social Media Sharing Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1356
+msgid " to know how to configure social sharing icons settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1365
+msgid "Sharing Icons BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1377
+msgid "Sharing Icons Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1389
+msgid "Sharing Icons Hover Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1401
+msgid "Sharing Icons Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1411
+msgid "Disable Facebook"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1422
+msgid "Disable Twitter"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1434
+msgid "Disable Google Plus"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1445
+msgid "Disable Linkedin"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1457
+msgid "Disable Pinterest"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1468
+msgid "Disable Stumbleupon"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1479
+msgid "Disable Digg"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1490
+msgid "Disable Email"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1500
+msgid "Email From Field Settings "
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1507
+msgid "Your Email Address"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1512
+msgid "Change Your Email Address Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1519
+msgid "Your Name"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1524
+msgid "Change Your Name Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1531
+msgid "Send to Email Address"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1536
+msgid "Change Send to Email Address Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1548
+msgid "Form Success Message Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1560
+msgid "Form Error Message Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1572
+msgid "Shared Post"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1584
+msgid "Change Form Submit Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1597
+#: ../lib/includes/customizer/theme_customization.php:3748
+#: ../lib/includes/customizer/theme_customization.php:4269
+msgid "Button Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1609
+#: ../lib/includes/customizer/theme_customization.php:4275
+msgid "Button Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1625
+msgid "Blog Page Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1628
+msgid "Blog General Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1638
+msgid "Blog Posts Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1641
+msgid ""
+"<strong class=\"customizer_note\"> Note: </strong>Below settings applies for "
+"blog archives page , category page, author page and tags page. for more "
+"details"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1641
+msgid "watch this video"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1652
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1656
+#: ../lib/includes/customizer/theme_customization.php:1894
+#: ../lib/includes/customizer/theme_customization.php:3897
+#: ../lib/includes/customizer/theme_customization.php:3912
+#: ../lib/includes/customizer/theme_customization.php:3927
+msgid "No Sidebar"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1668
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1701
+msgid "Limit Word"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1717
+#: ../lib/includes/customizer/theme_customization.php:2386
+msgid "Date Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1723
+#: ../lib/includes/customizer/theme_customization.php:2392
+msgid "Date Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1735
+msgid "Title Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1741
+#: ../lib/includes/customizer/theme_customization.php:1922
+#: ../lib/includes/customizer/theme_customization.php:4044
+msgid "Description"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1747
+msgid "Meta Info Border Top & Bottom Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1753
+msgid "Hyper Meta Info Link Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1759
+msgid "Hyper Meta Info Link Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1769
+msgid "Readmore Button Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1777
+msgid "Readmore Button BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1783
+msgid "Readmore Button Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1789
+msgid "Readmore Button Hover BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1795
+msgid "Readmore Button Hover Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1804
+msgid "Readmore Button Letter Space (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1821
+msgid "Readmore Button Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1836
+msgid "Readmore Button Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1847
+msgid "Gallery Slider Navigation Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1853
+msgid "Gallery Slider Active Navigation Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1879
+msgid "Blog Single page Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1882
+msgid " to know how to configure blog single page settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1890
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1916
+msgid "Title Bottom Border Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1943
+msgid "Blog Single Page Next / Prev Buttons Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1996
+msgid "Blog Quote Format Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:1999
+msgid " to know how to configure blog quotation format settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2007
+msgid "Blog Quote Format Font Size (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2023
+msgid "Blog Quote Format Font Letter Space (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2040
+msgid "Blog Quote Format Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2055
+msgid "Blog Quote Format Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2067
+msgid "Quote Format Author Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2078
+msgid "Blog Quote Format Author Font Size (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2094
+msgid "Blog Quote Format Author Font Letter Space (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2111
+msgid "Blog Quote Format Author Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2126
+msgid "Blog Quote Format Author Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2141
+msgid "Blog Single Related Post Title Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2144
+msgid " to know how to configure related post slider settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2155
+msgid "Single Page Related Post Title"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2167
+msgid "Blog Single Comment Form Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2170
+msgid " to know how to configure comment form settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2176
+msgid "Comments List Bottom Border Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2182
+msgid "Comment Form Border Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2188
+msgid "Comment Form Input Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2199
+msgid "Submit Button Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2207
+msgid "Comment Form Button BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2213
+msgid "Comment Form Button Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2219
+msgid "Comment Form Button Hover BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2225
+msgid "Comment Form Button Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2234
+msgid "Comment Form Button Letter Space (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2251
+msgid "Comment Form Button Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2266
+msgid "Comment Form Button Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2297
+msgid "Coming Soon Page Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2309
+msgid "Upload Coming Soon BG Image"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2319
+#: ../lib/includes/customizer/theme_customization.php:2511
+msgid "Disable Pattern"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2326
+msgid "Homes & Offices"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2331
+msgid "Coming Soon Page Title"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2337
+msgid ""
+"We strive to leave the tiniest footprint we can. Thats why our goods are "
+"designed and manufactured in the USA. We believe that one of the most."
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2342
+msgid "Coming Soon Page Content"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2354
+msgid "Coming Soon Date"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2365
+msgid "Date Format -  YYYY/MM/DD"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2373
+msgid "Coming Soon Page Title Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2379
+msgid "Coming Soon Page Title Border Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2398
+msgid "Date Week / Days / Hours Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2404
+msgid "Social Icons Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2413
+msgid "Social Icons Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2419
+msgid "Social Icons Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2425
+msgid "Social Icons Hover Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2431
+msgid "Social Icons Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2456
+msgid "404 Error Page Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2467
+msgid "Upload 404 Page BG Image"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2478
+msgid "Background Repeat"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2495
+msgid "Background Image Position"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2523
+msgid "Error Page Title"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2534
+msgid "GO TO HOME PAGE Button Name"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2543
+msgid "404 Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2548
+msgid "Error Page Button Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2554
+msgid "Error Page Button BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2560
+msgid "Error Page Button Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2566
+msgid "Error Page Button Hover BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2575
+msgid "Error Page Button Letter Space (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2592
+msgid "Error Page  Button Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2607
+msgid "Error Page  Button Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2642
+msgid "Footer  Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2645
+msgid " to know how to bottom footer settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2661
+msgid "Select Footer Type"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2664
+msgid "Default Footer"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2665
+msgid "Page Type Footer"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2675
+msgid "Select Page Footer"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2683
+msgid "Disable Sticky Footer"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2694
+msgid "Contact Information"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2709
+msgid "Copy Right Information"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2723
+msgid "Social Icons"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2735
+msgid "Follow Us Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2749
+msgid "Facebook ID"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2754
+msgid "facebook user name , ex: JohnDoe"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2764
+msgid "Twitter ID"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2768
+msgid "twitter user name , ex: JohnDoe"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2778
+msgid "Linkedin ID"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2782
+msgid "linkedin user name , ex: JohnDoe"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2792
+msgid "Youtube ID"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2796
+msgid "Youtube user name , ex: JohnDoe"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2806
+msgid "Google Plus ID"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2810
+msgid "googleplus user name , ex: JohnDoe"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2820
+msgid "Dribble ID"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2824
+msgid "dribble user name , ex: JohnDoe"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2834
+msgid "Digg ID"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2838
+msgid "digg user name , ex: JohnDoe"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2848
+msgid "Instagram ID"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2851
+msgid "instagram user name , ex: JohnDoe"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2862
+msgid "Rss ID"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2866
+msgid "rss user name , ex: JohnDoe"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2875
+msgid "Color Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2886
+msgid "Background"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2897
+msgid "Border Top Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2908
+#: ../lib/includes/customizer/theme_customization.php:4263
+msgid "Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2941
+msgid "Font Size"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2957
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2974
+msgid "Text Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:2989
+msgid "Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3009
+msgid "Typography Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3016
+msgid "Google Font Family"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3027
+msgid "Select font for Body"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3038
+msgid "Select font for Headings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3049
+msgid "Select font for Menu"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3059
+msgid "Select font for All Titles Description"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3069
+#: ../lib/includes/customizer/theme_customization.php:3093
+msgid ""
+"Menu title description, slider title description, portfolio vertical title, "
+"portfolio single page model Information, portfolio sharing icon title, blog "
+"page date, blog page quotation, blog meta post, blog single page comment "
+"form, tag clouds, blockquotes, search box input fields, and ect..."
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3080
+msgid "Select Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3083
+msgid "Italic "
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3109
+msgid "Font Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3122
+msgid "Body Font Size"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3138
+msgid "Body Font Letter Spacing"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3155
+msgid "Select Body Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3165
+msgid "Menu Font Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3176
+msgid "Menu Font Size"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3192
+msgid "Menu Font Letter Spacing"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3209
+msgid "Select Menu Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3222
+#: ../lib/includes/customizer/theme_customization.php:3295
+msgid "Enable Uppercase Letters "
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3249
+msgid "Child Menu Font Size"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3265
+msgid "Child Menu Font Letter Spacing"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3282
+msgid "Select Child Menu Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3305
+msgid "Title Font Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3317
+msgid "Font size for heading - H1"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3333
+msgid "Font Letter Spacing - H1"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3351
+msgid "Select Font Weight - H1"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3370
+msgid "Font size for heading - H2"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3386
+msgid "Font Letter Spacing - H2"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3404
+msgid "Select Font Weight - H2"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3423
+msgid "Font size for heading - H3"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3439
+msgid "Font Letter Spacing - H3"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3456
+msgid "Select Font Weight - H3"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3475
+msgid "Font size for heading - H4"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3491
+msgid "Font Letter Spacing - H4"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3508
+msgid "Select Font Weight - H4"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3527
+msgid "Font size for heading - H5"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3543
+msgid "Font Letter Spacing - H5"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3560
+msgid "Select Font Weight - H5"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3579
+msgid "Font size for heading - H6"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3595
+msgid "Font Letter Spacing - H6"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3612
+msgid "Select Font Weight - H6"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3627
+msgid "Global Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3634
+msgid "General Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3646
+msgid "Disable Header Top Search Icon"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3659
+msgid "Upload Favicon Image"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3669
+msgid "Custom CSS"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3680
+msgid "Custom JQUERY"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3690
+msgid "Ex: alert('hai');"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3717
+msgid "Enable Site Loader"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3729
+msgid "Blog & Portfolio Single Next / Prev Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3732
+msgid "Blog & Portfolio Single Page Previous / Next Buttons Color Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3739
+msgid "Portfolio & Blog Single Page Buttons Colors"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3754
+msgid "Button Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3760
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3766
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3775
+msgid "Button Letter Space (px)"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3792
+msgid "Button Font Weight"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3807
+msgid "Button Font Style"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3838
+msgid "Dashboard Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3844
+msgid "Your Portfolio Profile Will be activate with in 24 hours!"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3849
+msgid "Alert Message Text After Model Submission"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3866
+msgid "Woocommerce Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3869
+msgid "Woocommerce Page Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3878
+msgid "Shop Page Columns"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3882
+msgid "4 Columns"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3883
+msgid "3 Columns"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3884
+msgid "2 Columns"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3893
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3908
+msgid "Product Categories / Tags  Page Sidebar"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3923
+msgid "Shop Single Page Sidebar"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3947
+msgid "Border Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3955
+msgid ""
+"<strong class=\"customizer_note\"> Note: </strong> color applied for product "
+"single page and checkout page table borders colors and product single page "
+"tabs border bottom color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3965
+msgid "Elements BG color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3972
+msgid "Elements Text color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:3979
+msgid ""
+"<strong class=\"customizer_note\"> Note: </strong> color applied for onsale "
+"tag, checkout page coupon toggle icon and checkout page registarion form "
+"toggle icon"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4008
+msgid "Background Color Section"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4036
+msgid ""
+"<strong class=\"customizer_note\"> Note: </strong> color applied for  "
+"Related products, cross sells and up-sells products titles bottom border "
+"color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4050
+msgid "Price Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4088
+msgid "Buttons Color Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4097
+msgid "Buttons BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4102
+msgid "Buttons Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4109
+msgid "Buttons BG Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4115
+msgid "Buttons Text Hover Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4140
+msgid "Alert Boxes Color Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4149
+msgid "Success Alert Box BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4156
+msgid "Success Alert Box Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4163
+msgid "Notification Alert Box BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4170
+msgid "Notification Alert Box Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4177
+msgid "Warning Alert Box BG Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4184
+msgid "Warning Alert Box Text Color"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4209
+msgid "Content Warning Settings"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4211
+msgid ""
+"Captcha works only Shortlist model booking form, Contact form widget and "
+"User registarion form"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4219
+msgid "Enable Content Popup Window"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4234
+msgid "Content Popup Window Text"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4241
+msgid "ENTER"
+msgstr ""
+
+#: ../lib/includes/customizer/theme_customization.php:4246
+msgid "Enter Button Text"
+msgstr ""
+
+#: ../talentagency/single-portfolio.php:6
+msgid "SHORTLIST"
+msgstr ""
+
+#: ../talentagency/single-portfolio.php:7
+msgid "NEXT"
+msgstr ""
+
+#: ../talentagency/single-portfolio.php:8
+msgid "PREV"
+msgstr ""
+
+#: ../woocommerce/content-product.php:35 ../woocommerce/content-product.php:38
+#: ../woocommerce/product-data.php:5 ../woocommerce/product-data.php:8
+#: ../woocommerce/single-product/related.php:52
+#: ../woocommerce/single-product/related.php:55
+#: ../woocommerce/single-product/up-sells.php:57
+#: ../woocommerce/single-product/up-sells.php:60
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/content-product.php:35 ../woocommerce/content-product.php:38
+#: ../woocommerce/product-data.php:5 ../woocommerce/product-data.php:8
+#: ../woocommerce/single-product/related.php:52
+#: ../woocommerce/single-product/related.php:55
+#: ../woocommerce/single-product/up-sells.php:57
+#: ../woocommerce/single-product/up-sells.php:60
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/content-product.php:44 ../woocommerce/product-data.php:14
+#: ../woocommerce/single-product/related.php:61
+#: ../woocommerce/single-product/up-sells.php:66
+msgid "OUT OF STOCK"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:24
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:28
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/single-product/product-image.php:61
+msgid "Awaiting product image"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:47
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:13
+msgid "Product Description"
+msgstr ""

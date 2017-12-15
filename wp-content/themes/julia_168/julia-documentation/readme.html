@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>Help Document File</title>
+<!-- Framework CSS -->
+<link rel="stylesheet" href="assets/css/screen.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="assets/css/print.css" type="text/css" media="print">
+<!--[if lt IE 8]><link rel="stylesheet" href="assets/css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<script type="text/javascript" src="assets/js/shCore.js"></script>
+<script type="text/javascript" src="assets/js/shBrushCSharp.js"></script>
+<link type="text/css" rel="stylesheet" href="assets/css/shCore.css"/>
+<link type="text/css" rel="stylesheet" href="assets/css/shThemeDefault.css"/>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<script type="text/javascript">
+		SyntaxHighlighter.config.clipboardSwf = 'scripts/clipboard.swf';
+		SyntaxHighlighter.all();
+	</script>
+<link href="css/readme-css.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery-1.5.2.min.js"></script>
+<script language="JavaScript">
+$(document).ready(function() {
+
+    $(".tabs .tab[id^=tab_menu]").click(function() {
+        var curMenu=$(this);
+        $(".tabs .tab[id^=tab_menu]").removeClass("selected");
+        curMenu.addClass("selected");
+        var index=curMenu.attr("id").split("tab_menu_")[1];
+        $(".curvedContainer .tabcontent").css("display","none");
+        $(".curvedContainer #tab_content_"+index).css("display","block");
+    });
+});
+</script>
+</head>
+<body>
+<div id="wrapper">
+<div class="theme_name">
+    <h1> julia WordPress CMS Theme </h1>
+    <p class="prepend-top"> 
+        Please first go through the help file and feel free to contact me if you have any query by login in to themeforest and send an email from my profile page using form at right side <a href="http://themeforest.net/user/kayapati"> http://themeforest.net/user/Kayapati</a> </p>
+</div>
+<div class="tabscontainer">
+  <ul class="tabs">
+        <li class="tab selected first" id="tab_menu_1"> <a href="#" class="link"> Theme Installation</a></li>
+        <li class="tab" id="tab_menu_2"> <a href="#" class="link"> Install Required Plugins</a></li>
+        <li class="tab" id="tab_menu_3"> <a href="#" class="link"> Import One Click Demo Content</a></li>
+        <li class="tab" id="tab_menu_4"> <a href="#" class="link"> How to Create Custom Meta Fields</a></li>
+        <li class="tab" id="tab_menu_5"> <a href="#" class="link"> How to Create New Talent Post</a></li>
+        <li class="tab" id="tab_menu_6"> <a href="#" class="link"> How to Create Become a Model Page</a></li>
+        <li class="tab" id="tab_menu_7"> <a href="#" class="link"> How to Create Add Talent Profile Form</a></li>
+        <li class="tab" id="tab_menu_8"> <a href="#" class="link"> How to Create View / Edit Talent Profile</a></li>
+        <li class="tab" id="tab_menu_9"> <a href="#" class="link"> How to Create User Profile Form</a></li>
+        <li class="tab" id="tab_menu_10"> <a href="#" class="link"> How to Create KTA - Registration Form</a></li>
+        <li class="tab" id="tab_menu_11"> <a href="#" class="link"> How to Create KTA - Login</a></li>
+        <li class="tab" id="tab_menu_12"> <a href="#" class="link"> How to Create Userdashboard Page</a></li>
+        <li class="tab" id="tab_menu_13"> <a href="#" class="link"> How to Create Userdashboard Menu</a></li>
+        <li class="tab" id="tab_menu_14"> <a href="#" class="link"> How to Add Userdashboard Menu in Custom Menu</a></li>
+        <li class="tab" id="tab_menu_15"> <a href="#" class="link"> How to Create Smart Slider</a></li>
+        <li class="tab" id="tab_menu_16"> <a href="#" class="link"> How to Add Smart Slider in Page</a></li>
+        <li class="tab" id="tab_menu_17"> <a href="#" class="link"> How to Customize Header Section</a></li>
+        <li class="tab" id="tab_menu_18"> <a href="#" class="link"> How to Customize Footer Section</a></li>
+  </ul>
+<div class="curvedContainer">
+   
+<div class="tabcontent" id="tab_content_1" style="display:block">
+    <h2>Theme Installation & Activation</h2>
+    <p>To install this theme you must have a working version of WordPress already installed. For more information regarding 
+    installing the WordPress platform, please see the WordPress Codex --</p>
+    <a class="tab_link" href=" http://codex.wordpress.org/Installing_WordPress" target="_blank">http://codex.wordpress.org/Installing_WordPress </a>
+    <p>After downloading theme from Themeforest, unzip the files and find theme folder called "julia" in <strong>main-files/ julia</strong> folder.</p>
+    <p>When you are ready to install a theme, you must first upload theme files and then activate theme.</p>
+    <br>
+    <h3>The theme files can be uploaded in two ways.</h3>
+    <ul>
+        <li>1. WordPress Upload</li>
+        <li>2. FTP Upload</li>
+    </ul>
+    <h3>WordPress Upload</h3>
+    <p>1. Navigate to <em><strong>Appearance &gt; Themes &gt; Add New &gt; Upload Theme &gt; Choose Files</strong></em> and select the  <strong>julia.zip</strong> hit "Install Now" and the theme will be uploaded and installed.</p>
+    <p>2. After Uploading Theme and Activate the theme on Clicking link <strong>Activate</strong> Text.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/a9B692_CbJs"><strong>Video: </strong> Click Here How To Upload Theme And Activation</a>
+    <h3>FTP Upload</h3>
+    <p>1. Using your FTP program, upload <strong>julia</strong> folder ( unzip julia.zip theme
+    folder ) into /wp-content/ theme folder on your server.</p>
+    <img src="images/ftp.jpg" alt="img" />
+</div>
+
+<div class="tabcontent" id="tab_content_2">
+    <h2>Installation and Activating Theme Required Plugins</h2>
+    <p>This Theme Requires Following Plugins.</p>
+    <ol>
+        <li>Kaya Julia Plugin</li>
+        <li>Kaya Roles Manager</li>
+        <li>Meta Boxes</li>
+        <li>Page Builder by SiteOrigin</li>
+        <li>Smart Slider 3</li>
+        <li>Talent Agency</li>
+        <li>Talent Agency - Frontend Talent Posting Add On</li>
+        <li>Talent Agency - Search Form</li>
+        <li>Talent Agency - Talents Shortlist Add On</li>
+    </ol>
+    <p>1. Navigate to <strong>Appearance &gt; Install Plugins</strong></p>
+    <p>2. First Install all Plugins by check box and click on Bluck Action Menu and Select <strong>install</strong> and click on <strong>Apply</strong> Button to Install Plugins.</p>
+    <p>3. Next Activate all Plugins by check box and click on Bluck Action Menu and Select <strong>Activate</strong> and click on <strong>Apply</strong> Button to Activate Plugins.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/aWgiB6BFixQ"><strong>Video: </strong> Click Here How To Install And Activate Plugins</a>
+</div>
+
+<div class="tabcontent" id="tab_content_3">
+    <h2>Import One Click Demo Content</h2>
+    <p class="tab_link">Before importing demo content make sure that you have installed and activated julia theme required plugins Kaya Julia Plugin, Kaya Roles Manager, Meta Boxes, Page Builder by SiteOrigin, Smart Slider 3, Talent Agency, Talent Agency - Frontend Talent Posting Add On, Talent Agency - Search Form and Talent Agency - Talents Shortlist Add On</p>    
+    <img src="images/one-click-demo.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>julia Options &gt; Click On One Click Demo</strong></p>
+    <p>2. Next Click On <strong>"Import Demo Content"</strong> Button. Then a Alert Box will appear on top of screen and click on <strong>Ok</strong> Button to Import Content and Wait for few seconds to import.</p>
+    <p>3. A Success Message will be appear <strong>"Data Imported successfully"</strong></p>
+    <p>4. Click On <strong>"Have fun!"</strong></p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/5QZTW8sJGeA"><strong>Video: </strong> Click Here How To Import One Click Demo Content</a>
+</div>
+
+<div class="tabcontent" id="tab_content_4">
+    <h2>How to Create Custom Meta Fields</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating Custom Meta Fields procedure. Because all the Pages, Kaya Post Slider, Model, Team, Testimonial, Tab Items and Model Options are imported through One Click Demo. So you don't require to create any further pages and Filelds.</p>
+    <img src="images/custom-meta-fields.jpg" alt="img"/>
+    <br><br>
+    <p>1. Navigate to <strong>Talent &gt; Click On Custom Fields</strong></p>
+    <p>2. Next Click On <strong>"ADD GROUP"</strong> Button to add require fields as per your need.</p>
+    <p>3. Finally Click On <strong>"SAVE CHANGES"</strong></p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/Lt7c866ltLo"><strong>Video: </strong> Click Here How To Create Custom Meta Fields</a>
+</div>
+
+<div class="tabcontent" id="tab_content_5">
+    <h2>How to Create New Talent Post</h2>
+    <img src="images/talent-post.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Talent &gt; Click On Add New</strong></p>
+    <p>2. Add the Fields as per your need.</p>
+    <p>3. Finally Click On <strong>Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/OAXFtCdY8lw"><strong>Video: </strong> Click Here How Create New Talent Post</a>
+</div>
+
+<div class="tabcontent" id="tab_content_6">
+    <h2>How to Create Become a Model Page</h2>
+    <img src="images/become-a-model.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Pages</strong> Click on <strong>Add New</strong></p>
+    <p>2. Enter Title as per your need</p>
+    <p>3. Click on <strong>Page Builder</strong> Panel</p>
+    <p>4. Next Click on <strong>Add Widget</strong> or <strong>Widget</strong> Button.</p>
+    <p>5. Select <strong>KTA -Talent Submission Form</strong> Widget.</p>
+    <p>6. If you want to edit the text open <strong>KTA -Talent Submission Form</strong> on clicking edit button. then you can modify text and finally click on <strong>Done</strong> button.</p>
+    <p>6. Finally Click On <strong>Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/ChhSgDI_i1o"><strong>Video: </strong> Click Here How to Create Become a Model Page</a>
+</div>
+
+<div class="tabcontent" id="tab_content_7">
+    <h2>How to Add Talent Profile Form</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating Add Talent Profile.</p>
+    <img src="images/Adding-talent-profile.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Pages &gt; Click On Add New</strong></p>
+    <p>2. Enter Title as per your need.</p>
+    <p>3. Click on <strong>Page Builder</strong> Panel</p>
+    <p>4. Next Click on <strong>Add Widget</strong> or <strong>Widget</strong> Button.</p>
+    <p>5. Select <strong>Front End - Talent posting Form</strong> Widget.</p>
+    <p>6. Finally Click On <strong>Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/FUmo4NvNKow"><strong>Video: </strong> Click Here How Create Add Talent Profile</a>
+</div>
+
+<div class="tabcontent" id="tab_content_8">
+    <h2>How to Create View / Edit Talent Profile</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating View / Edit Talent Profile.</p>
+    <img src="images/view-edit-profile.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Pages &gt; Click On Add New</strong></p>
+    <p>2. Enter Title as per your need.</p>
+    <p>3. Click on <strong>Page Builder</strong> Panel</p>
+    <p>4. Next Click on <strong>Add Widget</strong> or <strong>Widget</strong> Button.</p>
+    <p>5. Select <strong>Front End - Talent post view</strong> Widget.</p>
+    <p>6. Finally Click On <strong>Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/j9ClM1UPb4w"><strong>Video: </strong> Click Here How to Create View / Edit Talent Profile</a>
+</div>
+
+<div class="tabcontent" id="tab_content_9">
+    <h2>How to Create User Profile Form</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating User Profile.</p>
+    <img src="images/User-profile.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Pages &gt; Click On Add New</strong></p>
+    <p>2. Enter Title as per your need.</p>
+    <p>3. Click on <strong>Page Builder</strong> Panel</p>
+    <p>4. Next Click on <strong>Add Widget</strong> or <strong>Widget</strong> Button.</p>
+    <p>5. Select <strong>KTA - User Profile</strong> Widget.</p>
+    <p>6. Finally Click On <strong>Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/fkNXD1JjMy8"><strong>Video: </strong> Click Here How to Create User Profile</a>
+</div>
+
+<div class="tabcontent" id="tab_content_10">
+    <h2>How to Create KTA - Registration Form</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating KTA - Registration Form.</p>
+    <img src="images/registration-from.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Pages &gt; Click On Add New</strong></p>
+    <p>2. Enter Title as per your need.</p>
+    <p>3. Click on <strong>Page Builder</strong> Panel</p>
+    <p>4. Next Click on <strong>Add Widget</strong> or <strong>Widget</strong> Button.</p>
+    <p>5. Select <strong>KTA - Registration</strong> Widget.</p>
+    <p>6. Next Click on Edit to edit <strong>Registration Form Description</strong>, <strong>Registration Form User Roles</strong> and <strong>'Registration as a' Text Change</strong> as per your need.</p>
+    <p>7. Finally Click On <strong>Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/BHDI3dddjIM"><strong>Video: </strong> Click Here How to Create KTA - Registration Form</a>
+</div>
+
+<div class="tabcontent" id="tab_content_11">
+    <h2>How to Create KTA - Login</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating KTA - Login.</p>
+    <img src="images/login.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Pages &gt; Click On Add New</strong></p>
+    <p>2. Enter Title as per your need.</p>
+    <p>3. Click on <strong>Page Builder</strong> Panel</p>
+    <p>4. Next Click on <strong>Add Widget</strong> or <strong>Widget</strong> Button.</p>
+    <p>5. Select <strong>KTA - Login</strong> Widget.</p>
+    <p>6. Next Click on Edit to edit <strong>Login Description</strong> as per your need.</p>
+    <p>7. Finally Click On <strong>Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/GGkIazljB5I"><strong>Video: </strong> Click Here How to Create KTA - Login</a>
+</div>
+
+<div class="tabcontent" id="tab_content_12">
+    <h2>How to Create Userdashboard Page</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating Userdashboard Page.</p>
+    <img src="images/Userdashboard.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Pages &gt; Click On Add New</strong></p>
+    <p>2. Enter Title as per your need.</p>
+    <p>3. Click on <strong>Page Builder</strong> Panel</p>
+    <p>4. Click on <strong>Row</strong> Button</p>
+    <p>5. <strong>Set row layout</strong> as 2. make the first row as 25% and the second row as 75%.</p>
+    <p>6. Click On <strong>Insert</strong> Button.</p>
+    <p>7. Add <strong>Custom Menu</strong> widget in First row and you can edit this row after creating <strong>Userboard Menu</strong> and in second row add <strong>Text</strong> widget. Here you can add content as per your need.</p>
+    <p>8. Finally Click On <strong>Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/lDYjlnLzzx4"><strong>Video: </strong> Click Here How to Create Userdashboard</a>
+</div>
+
+<div class="tabcontent" id="tab_content_13">
+    <h2>How to Create Userdashboard Menu</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating Userdashboard Menu.</p>
+    <img src="images/Userdashboard-menu.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Appearance &gt; Click On Menu</strong></p>
+    <p>2. Click on <strong>create a new menu.</strong> Link.</p>
+    <p>3. Enter the <strong>Menu Name</strong> as <strong>Userdashboard.</strong> orelse you can enter your own name.</p>
+    <p>4. Click On <strong>Create Menu</strong> Button.</p>
+    <p>5. Go for <strong>Pages</strong> Panel and Select <strong>Userdashboard</strong>, <strong>Add Talent Profile</strong>, <strong>View / Edit Talent Profile</strong> and <strong>User Profile</strong>.</p>
+    <p>6. After Selection Click On <strong>Add to Menu</strong> Button and selected pages will add in menu structure</p>
+    <p>7. Go for <strong>Menu Setting</strong> Select <strong>User Dashboard</strong>.</p>
+    <p>8. Finally Click On <strong>Save Menu</strong> Button.</p>
+     <a class="tab_link" target="_blank" href="https://youtu.be/OPHYW1ZajIc"><strong>Video: </strong> Click Here How to Create Userdashboard Menu</a>
+</div>
+
+<div class="tabcontent" id="tab_content_14">
+    <h2>How to Add Userdashboard Menu in Custom Menu</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Adding Userdashboard Menu in Custom Menu</p>
+    <img src="images/Userdashboard.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Pages &gt; Click on All Pages</strong>.</p>
+    <p>2. Select <strong>User Dashboard</strong> Page and click on <strong>Edit</strong>.</p>
+    <p>3. Go for first row <strong>Custom Menu</strong> click on edit.</p>
+    <p>4. Here select <strong>Select Menu:</strong> as <strong>Userdashboard.</strong></p>
+    <p>5. Click On <strong>Done</strong> button.</p>
+    <p>6. Finally Click On <strong>Update</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/oDxN5Wu1BDI"><strong>Video: </strong> Click Here How to Add Userdashboard Menu in Custom Menu</a>
+</div>
+
+<div class="tabcontent" id="tab_content_15">
+    <h2>How to Create Smart Slider </h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating Smart Slider.</p>
+    <img src="images/smart-slider.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Smart Slider</strong> Click On It.</p>
+    <p>2. Create your Own New Slider orelse Click On <strong>Template Library</strong> Here you can find Free Sample Slider.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/lsq09izc1H4"><strong>Video: </strong> Click Here How to Create Smart Slider</a>
+</div>
+
+<div class="tabcontent" id="tab_content_16">
+    <h2>How to Add Smart Slider Shortcode In Page</h2>
+    <p class="tab_link">Note: If you Imported XML Demo using One Click Demo option you can skip this Creating Smart Slider.</p>
+    <img src="images/smart-slider.jpg" alt="img" />
+    <br><br>
+    <p>1. Navigate to <strong>Smart Slider</strong> Click On It.</p>
+    <p>2. After Creating Slider.</p>
+    <p>3. A Shortcode is Generated.</p>
+    <p>4. Copy the Generated Shortcode</p>
+    <p>5. Open the required page where you want to have a slider.</p>
+    <p>6. Go for <strong>Page Background Options</strong> panel in page.</p>
+    <p>7. <strong>Choose Choose Subheader Style</strong> as <strong>Header Slider</strong> and Select <strong>Select Slider Type</strong> as <strong>Slider Plugin Shortcode</strong>.</p>
+    <p>8. Paste the copied shortcode in <strong>Slider Shortcode</strong> input field.</p>
+    <p>9. Finally Click <strong>Publish</strong> or <strong>Update</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/zLy9DJQFE7c"><strong>Video: </strong> Click Here How to Add Smart Slider Shortcode In Page</a>
+</div>
+
+<div class="tabcontent" id="tab_content_17">
+    <h2>How to Customize Header Section</h2>
+    <img src="images/header-section.jpg" alt="img" />
+    <br><br>
+    <p>Navigate to <strong>Appearance</strong> and Click on <strong>Customize</strong> and Click on <strong>Header Section</strong></p>
+
+    <h4>Here You Can Customize the below Following </h4>
+    <p>1. Header Settings</p>
+    <p>2. Menu Color Settings</p>
+    <p>3. Logo Settings</p>
+    <p>4. Advance Search Icon Color Setting</p>
+
+    <h4>1. Header Settings</h4>
+    <p>a. Here You Can Modify <strong>Header Background Color</strong>, <strong>Header Border Bottom Color</strong>, <strong>Header Margin Top</strong>, <strong>Header Margin Bottom</strong> and <strong>Disable Sticky Header</strong> option</p>
+    <p>b. After Customize Click On <strong>Save & Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/xNkOUGOMCj8"><strong>Video: </strong> Click Here How to Customize Header Settings</a>
+
+    <h4>2. Menu Color Settings</h4>
+    <p>a. Here You Can Modify <strong>Link Color</strong>, <strong>Link Hover Color</strong>, <strong>Link Hover BG Color</strong>, <strong>Active Color</strong> and <strong>Active Bg Color</strong></p>
+    <p>b. After Customize Click On <strong>Save & Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/RKyNDV9vcms"><strong>Video: </strong> Click Here How to Customize Menu Color Settings</a>
+
+    <h4>3. Logo Settings</h4>
+    <p>a. Here You Can Modify or Upload<strong>Image Logo</strong> or <strong>Text Logo</strong></p>
+    <p>b. After Customize Click On <strong>Save & Publish</strong> Button.</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/yYgN2njTmqk"><strong>Video: </strong> Click Here How to Customize Logo Settings</a>
+
+    <h4>4. Advance Search Icon Color Setting</h4>
+    <p>a. Navigate to <strong>Talent Agency</strong> and <strong>Click on Talents Search</strong></p>
+    <p>b. <strong>Search Options Settings</strong> Select <strong>Colors</strong>.</p>
+    <p>c. Here you can Modify <strong>Search Icon background Color</strong>, <strong>Search Icon Color</strong>, <strong>Form background Color</strong>, <strong>Form Input Fields Border Color</strong>, <strong>Form Input Fields Color</strong>, <strong>Form Button Background Color</strong>, <strong>Form Button Text Color</strong>, <strong>Form Button Hover Background Color</strong> and <strong>Form Button Hover Background Color</strong></p>
+    <p>d. Finally Click On <strong>Update Settings</strong> Button</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/lZWJTFbSy1I"><strong>Video: </strong> Click Here How to Customize Advance Search Icon Color Setting</a>
+</div>
+
+<div class="tabcontent" id="tab_content_18">
+    <h2>How to Customize Footer Section</h2>
+    <img src="images/footer-section.jpg" alt="img" />
+    <br><br>
+    <p>Navigate to <strong>Appearance</strong> and Click on <strong>Customize</strong> and Click on <strong>Footer Section</strong></p>
+
+    <p>Here you can Customize the below Following</p>
+    <p>1. Default Footer</p>
+    <p>2. Page Type Footer</p>
+
+    <h4>1. Default Footer</h4>
+    <p>a. Here You can <strong> Disable Sticky Footer</strong> option and you can <strong>Contact Information</strong>, <strong>Copy Right Information</strong>, and adding <strong>Social Icons</strong>.</p>
+    <p>d. Finally Click On <strong>Save & Publish</strong> Button</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/Fz_9FeI-Mns"><strong>Video: </strong> Click Here How to Customize Default Footer</a>
+
+    <h4>2. Page Based Footer</h4>
+    <p>a. Select Footer Type as <strong>Page Type Footer</strong> Panel</p>
+    <p>b. <strong>Select Page Footer</strong> Which you are Created</p>
+
+    <h4>How to create page based footer</h4>
+    <p>a. Navigate to <strong>Pages</strong> and Click on <strong>Add New</strong></p>
+    <p>b. Enter Page Title as per your need.</p>
+    <p>c. Click on <strong>pagebuilder</strong> panel </p>
+    <p>d. Next Click on <strong>Row</strong> button to add rows as per your need and click on <strong>insert</strong> button</p>
+    <p>e. Add Widgets or content in rows as per your need.</p>
+    <p>f. Finally Click on <strong>Publish</strong> button</p>
+    <a class="tab_link" target="_blank" href="https://youtu.be/dUzX8rtYpRs"><strong>Video: </strong> Click Here How to Customize Page Type Footer</a>
+
+</div>
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

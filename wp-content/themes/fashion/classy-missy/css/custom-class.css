@@ -1,0 +1,170 @@
+/* Table of Content
+==================================================
+	1.0  -  Custom Class
+
+	/*--------------------------------------------------------------
+	1.0 - Custom Class
+	--------------------------------------------------------------*/
+	
+	.title_uppercase { text-transform:uppercase; }
+	.title_bold { font-weight:bold; }
+	
+	/* http://prntscr.com/dydrzx = Reseller Hosting page */
+	.extend-bg-fullwidth-left:after { content:""; position:absolute; top:0px; right:100%; height:100%; width: 100%; display:inline !important; }
+	.extend-bg-fullwidth-right:after { content:""; position:absolute; top:0px; left:100%; height:100%; width: 100%; display:inline !important; }
+	
+	.extend-bg-fullwidth-left:after, .extend-bg-fullwidth-right:after { background:#f5f5f5; }
+	
+
+	/*----*****---- << VC Column custom class >> --****--*/
+	.rs_no-padding_column.wpb_column, .vc_col-md-12.wpb_column.rs_no-padding_column { margin-top: -1px; padding-bottom: 0; margin-bottom:0; } /* http://prntscr.com/dydqdv */
+	
+	.light-overlay:before { background:rgba(255, 255, 255, 0.8); } /* http://prntscr.com/dydsrd  = Model Home page contact section */
+	.dark-overlay:before { background:rgba(0, 0, 0, 0.8);  }
+	
+	.vc_separator.dt-custom-width-small { width: 40px; }
+
+
+	/*----*****---- << Gray Scale >> --****--*/ /* http://prntscr.com/dydr06 = Hotel Our Firm Page */
+	.gray-scale:hover, .gray-scale:hover img { -webkit-filter: grayscale(1); -moz-filter: grayscale(1); -ms-filter: grayscale(1); -o-filter: grayscale(1); filter: grayscale(1); -webkit-transition-property: -webkit-filter; -moz-transition-property: -moz-filter; -ms-transition-property: -ms-filter; -o-transition-property: -o-filter; transition-property: filter; -webkit-transition-duration: 1s; -moz-transition-duration: 1s; -ms-transition-duration: 1s; -o-transition-duration: 1s; transition-duration: 1s; }
+	
+
+	/*----*****---- << Text with icon >> --****--*/ /* http://prntscr.com/dydrax = Fitness Home Page */
+	.dt-sc-text-with-icon { width:100%; clear:both; float:left; font-weight:bold; padding:12px 0px 12px 20px; }
+	.dt-sc-text-with-icon span { font-size:18px; margin:0px 7px 0px 0px; position:relative; top:2px; font-weight:bold; }
+	
+	.dt-sc-text-with-icon.border-bottom { border-bottom:1px solid; }
+	.dt-sc-text-with-icon.border-right { border-right:1px solid; }
+
+	.dt-sc-dark-bg .dt-sc-text-with-icon span { color:#ffffff; }
+	
+	
+	/*----*****---- << Spa rounded corner image >> --****--*/ /* http://prntscr.com/dydylt = Spa */
+	.dt-sc-partially-rounded-alt { -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+	
+	.vc_min_height_right.wpb_column.vc_col-sm-6 { margin-left: 30px; width: calc(50% - 30px); } /* http://prntscr.com/e0ka7y *
+	
+
+	/*----*****---- << Image Caption With Counter >> --****--*/	 /* http://prntscr.com/dydzek = Image caption counter */
+	.dt-sc-image-caption-with-counter { counter-reset:image-caption-counter; }
+	.dt-sc-image-caption-with-counter h3 { counter-increment:image-caption-counter; }
+	.dt-sc-image-caption-with-counter h3:before { content:counter(image-caption-counter, decimal-leading-zero); font-size:36px; font-weight:600; border-bottom:2px solid; float:left; margin:-10px 20px 0px 0px; padding:0px; }
+	.dt-sc-image-caption-with-counter h3:before { font-family:'Open Sans', sans-serif; }
+	
+	
+	.dt-sc-contact-details-on-map .dt-sc-map-overlay h3, .dt-sc-contact-details-on-map .map-switch-icon, .dt-sc-contact-details-on-map .map-switch-icon:hover { color:#ffffff; }	
+	.dt-sc-contact-details-on-map .map-switch-icon:hover { background:#000000; } /* http://prntscr.com/dydzs2 = Restaurant */
+	
+	
+	/*----*****---- << Photography Readmore Plus >> ----*****----*/ /* http://prntscr.com/dydzxp = Photography */
+	.dt-sc-readmore-plus-icon:before, .dt-sc-readmore-plus-icon:after { -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; } 
+		
+	.dt-sc-readmore-plus-icon { position:absolute; right:0px; bottom:0px; width:60px; height:60px; text-indent:-9999px; }
+	.dt-sc-readmore-plus-icon:before, .dt-sc-readmore-plus-icon:after { content:""; position:absolute; left:0px; right:0px; top:0px; bottom:0px; margin:auto; }
+	.dt-sc-readmore-plus-icon:before { height:1px; width:30px; }
+	.dt-sc-readmore-plus-icon:after { height:30px; width:1px; }	
+	
+	
+	.dt-sc-readmore-plus-icon:before, .dt-sc-readmore-plus-icon:after { background:#ffffff; }	
+	.dt-sc-readmore-plus-icon { background:#000000; }	
+	.dt-sc-readmore-plus-icon:hover { background:rgba(0, 0, 0, 0.8); }
+	
+	
+	/*----*****---- << Nightclub Home page Social icons >> ----*****----*/
+	.diamond-narrow-square-border li:before { -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+	
+	.diamond-narrow-square-border li a { color:#000000; }	
+	.diamond-narrow-square-border li a:hover { color:#ffffff; }
+	
+	
+	/*----*****---- << Flip Promo Box >> ----*****----*/
+		
+	.dt-flip-hover-promo-box .vc_column-inner > .wpb_wrapper,
+	.dt-flip-hover-promo-box .vc_column-inner > .wpb_wrapper > .flip-box-wrap { height: 100%; }
+	
+	.dt-flip-hover-promo-box .vc_column-inner > .wpb_wrapper .flip-box-wrap .flip-ifb-auto-height .ifb-flip-box-section.ifb-flip-box-section-vertical-middle { position: absolute; left: 0; right: 0; top: 50% !important; -webkit-transform: translateY(-50%) !important; transform: translateY(-50%) !important; }
+
+	.dt-flip-hover-promo-box .flip-box-wrap { perspective: none; }
+	.dt-flip-hover-promo-box .flip-box-wrap .vertical_flip_top .ifb-flip-box { transform-stye: flat; }
+
+	.dt-flip-hover-promo-box .flip-box-wrap .flip-box h3 { font-size: 30px; }
+
+	.dt-flip-hover-promo-box .flip-box-wrap .vertical_flip_top .ifb-front,
+	.dt-flip-hover-promo-box .flip-box-wrap .vertical_flip_top .ifb-back { -webkit-transition: all 0.35s linear 0s; -moz-transition: all 0.35s linear 0s; -ms-transition: all 0.35s linear 0s; -o-transition: all 0.35s linear 0s; transition: all 0.35s linear 0s; }
+	
+	.dt-flip-hover-promo-box .flip-box-wrap .vertical_flip_top .ifb-front:before,
+	.dt-flip-hover-promo-box .flip-box-wrap .vertical_flip_top .ifb-back:before { content: ""; display: block; padding-top: 100%; }
+
+	.dt-flip-hover-promo-box .flip-box-wrap .vertical_flip_top .ifb-back { opacity: 0; visibility: hidden; }
+	.dt-flip-hover-promo-box .flip-box-wrap .vertical_flip_top .ifb-hover .ifb-back { opacity: 1; visibility: visible; }
+	
+	.dt-flip-hover-promo-box .ifb-back .flip_link a { background-color: transparent; display: table; font-size: 20px; margin-top: 0; position: relative; }
+	.dt-flip-hover-promo-box .ifb-back .flip_link a:after { content: "\f301"; display: table-cell; font-family: "Material-Design-Iconic-Font"; padding-left: 10px; padding-top: 2px; vertical-align: middle; }
+	.dt-flip-hover-promo-box .ifb-back .flip_link a:hover { color: inherit; }
+	
+	.dt-flip-hover-promo-box .ifb-back .flip_link a::before { background-color: #685f52; content: ""; height: 1px; margin: auto; position: absolute; bottom: 0; left: 0.6em; right: 35px; top: 1px; width: auto; -webkit-transform: scaleX(0); transform: scaleX(0); -webkit-transition: inherit; transition: inherit; }	
+	.dt-flip-hover-promo-box .ifb-back .flip_link a:hover::before { -webkit-transform: none; transform: none; }
+
+
+	/*----*****---- << Large Promo Box >> ----*****----*/
+	.dt-promo-box-large.vc_column_container > .vc_column-inner > .wpb_wrapper > .vc_row { position: absolute; bottom: 100px; z-index: 1000; }
+	.dt-promo-box-large.vc_column_container > .vc_column-inner > .wpb_wrapper > .vc_row .dt-sc-dropcap.dt-sc-dropcap-default { font-size: 240px; font-weight: normal; line-height: 0; margin: 0; width: 0; -webkit-transform: translate(-18px, 0px); transform: translate(-18px, 0px); }
+	.dt-promo-box-large.with-left-bottom-info.vc_column_container > .vc_column-inner > .wpb_wrapper > .vc_row { left: 50px; }
+	.dt-promo-box-large.with-right-bottom-info.vc_column_container > .vc_column-inner > .wpb_wrapper > .vc_row { right: 50px; }
+
+
+	/*----*****---- << Scale-n-SlideLeft Overlay >> ----*****----*/
+	.dt-scalein-slideleft-overlay, .dt-cross-merge-overlay-bg { overflow: hidden; position: relative; }
+
+	.dt-scalein-slideleft-overlay .vc_gitem-zone-a { -webkit-transition: all 0.3s ease 0s; transition: all 0.3s ease 0s; -webkit-transform: Scale(1); transform: Scale(1); }
+	.dt-scalein-slideleft-overlay .vc_grid-item-mini.vc_is-hover .vc_gitem-zone-a { -webkit-transform: Scale(1.1); transform: Scale(1.1); }
+
+	.dt-scalein-slideleft-overlay .vc_gitem-zone-b { display: block; height: 100%; margin: 0; position: absolute; left: 100%; top: 0; width: 100%; z-index: 1000; -webkit-transition: all 0.6s ease-out 0s; transition: all 0.6s ease-out 0s; }	
+	.dt-scalein-slideleft-overlay .vc_grid-item-mini.vc_is-hover .vc_gitem-zone-b,
+	.dt-scalein-slideleft-overlay .vc_grid-item-mini:hover .vc_gitem-zone-b {left: 0; }
+
+
+	/*----*****---- << Cross-Merge Overlay BG >> ----*****----*/
+	.dt-cross-merge-overlay-bg .vc-gitem-zone-height-mode-auto:before { padding-top: 0; }
+	.dt-cross-merge-overlay-bg .vc-gitem-zone-height-mode-auto .vc_gitem-zone-img { display: inherit !important; }
+	.dt-cross-merge-overlay-bg .vc_gitem-zone-b { display: block; height: 100%; margin: 0; position: absolute; bottom: auto; left: 0; right: auto; top: 0; visibility: hidden; width: 100%; z-index: 1000; }
+	.dt-cross-merge-overlay-bg .vc_gitem-zone-b:before, 
+	.dt-cross-merge-overlay-bg .vc_gitem-zone-b:after { content: ""; background-color: inherit; height: 100%; margin: auto; position: absolute; visibility: visible; width: 100%; }
+
+	.dt-cross-merge-overlay-bg .vc_gitem-zone-b, .dt-cross-merge-overlay-bg  .vc_gitem-zone-b:before, .dt-cross-merge-overlay-bg  .vc_gitem-zone-b:after { -webkit-transition: all 0.3s ease-out 0s; transition: all 0.3s ease-out 0s; }
+
+	.dt-cross-merge-overlay-bg .vc_gitem-zone-b:before { left: -100%; top: -100%; }
+	.dt-cross-merge-overlay-bg .vc_gitem-zone-b:after { bottom: -100%; right: -100%; }
+
+	.dt-cross-merge-overlay-bg .vc_grid-item-mini.vc_is-hover .vc_gitem-zone-b:before { left: 0; top: 0; }
+	.dt-cross-merge-overlay-bg .vc_grid-item-mini.vc_is-hover .vc_gitem-zone-b:after { bottom: 0; right: 0; }
+
+
+	/*----*****---- << Flip Icon Box >> ----*****----*/
+	.dt-flip-hover-icon-box .ifb-flip-box-section { padding-bottom: 30px; padding-top: 45px; }
+	.dt-flip-hover-icon-box .flip-box-icon .aio-icon.circle { font-size: 30px; height: 100px; line-height: 100px; width: 100px; }
+	.dt-flip-hover-icon-box .flip-box-icon .aio-icon.circle i.Defaults-file-o { font-size: 24px; }
+	.dt-flip-hover-icon-box .ifb-front .flip-box-icon ~ h3 { font-size: 12px; letter-spacing: 3px; margin-top: 30px; text-transform: uppercase; }
+	.dt-flip-hover-icon-box .ifb-back p { line-height: 30px !important; margin-bottom: 10px !important; }
+	.dt-flip-hover-icon-box .ifb-back .flip_link a { background-color: transparent; border: 2px solid; color: inherit; font-size: 12px; letter-spacing: 3px; line-height: normal; padding: 11px 20px 10px; text-transform: uppercase; }
+
+	.dt-flip-hover-icon-box .ifb-back .flip_link a:hover { background-color: inherit; border-color: transparent; color: #fff; }
+	
+
+	/*----*****---- << Slide-n-Title-Up-onHover >> ----*****----*/
+	.vc_grid-item.slidein-title-up-onhover .vc_gitem-zone-a, .vc_grid-item.slidein-title-up-onhover .vc_gitem-zone-c { -webkit-transition: all 0.3s ease 0s; transition: all 0.3s ease 0s; }
+
+	.vc_grid-item.slidein-title-up-onhover .vc_grid-item-mini.vc_is-hover .vc_gitem-zone-a { background-position: 0 50%; }
+	.vc_grid-item.slidein-title-up-onhover .vc_grid-item-mini.vc_is-hover .vc_gitem-zone-c { -webkit-transform: translateY(-100%); transform: translateY(-100%); }
+
+	.vc_grid-item.slidein-title-up-onhover .vc_gitem-post-data.vc_gitem-post-data-source-post_title { margin: 0; }
+	.vc_grid-item.slidein-title-up-onhover .vc_gitem-post-data.vc_gitem-post-data-source-post_title > div { background-color: #fff; color: #685f52; display: inline-block; font-size: 16px; letter-spacing: 1px; padding: 6px 22px 4px; text-transform: uppercase; }
+	.vc_grid-item.slidein-title-up-onhover .vc_gitem-post-data.vc_gitem-post-data-source-post_title > div { display: table; margin: auto; }
+
+
+
+	/*--------------------------------------------------------------
+	Default Color
+	--------------------------------------------------------------*/
+
+	.dt-flip-hover-icon-box .ifb-back .flip_link a:hover { background-color: #685f52; }

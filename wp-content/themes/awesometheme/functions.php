@@ -19,3 +19,12 @@ function awesome_theme_setup(){
 
 add_action('init', 'awesome_theme_setup');
 
+// function awesome_theme_setup_notreg(){
+
+	 
+	 
+// 	register_nav_menu('notamember', 'Not A Member');
+
+// }
+
+// add_action('after_setup_theme', 'awesome_theme_setup_notreg');

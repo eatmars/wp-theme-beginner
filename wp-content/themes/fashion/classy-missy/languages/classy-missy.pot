@@ -1,0 +1,6028 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Veda\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-19 14:16+0530\n"
+"PO-Revision-Date: 2016-11-30 17:51+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <support@designthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:37
+msgid "Oops!"
+msgstr ""
+
+#: ../404.php:37
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:39
+msgid "It seems you've venured too far."
+msgstr ""
+
+#: ../404.php:39
+msgid "Click here to go to home page."
+msgstr ""
+
+#: ../404.php:41
+msgid "Back to Home"
+msgstr ""
+
+#: ../comments.php:9
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Comment ( 1 )"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Comments ( % )"
+msgstr ""
+
+#: ../comments.php:22
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:26 ../comments.php:36
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:27 ../framework/theme-options/widgetarea.php:37
+#: ../framework/theme-options/widgetarea.php:56
+#: ../woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:28 ../woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:31
+msgid "Give a Reply"
+msgstr ""
+
+#: ../functions.php:50 ../framework/theme-options/settings.php:92
+msgid "Save All"
+msgstr ""
+
+#: ../functions.php:51
+msgid "Saving ..."
+msgstr ""
+
+#: ../functions.php:52
+msgid "No Results Found!"
+msgstr ""
+
+#: ../functions.php:53
+msgid "This will restore all of your options to default. Are you sure?"
+msgstr ""
+
+#: ../functions.php:54
+msgid ""
+"You are going to import the dummy data provided with the theme, kindly "
+"confirm?"
+msgstr ""
+
+#: ../functions.php:55
+msgid "Click OK to backup your current saved options."
+msgstr ""
+
+#: ../functions.php:56
+msgid "Your options are backuped successfully"
+msgstr ""
+
+#: ../functions.php:57
+msgid "Backup Process not working"
+msgstr ""
+
+#: ../functions.php:58
+msgid "Importing is disabled.. :), Please select atleast import type"
+msgstr ""
+
+#: ../functions.php:59
+msgid ""
+"Warning: All of your current options will be replaced with the data from "
+"your last backup! Proceed?"
+msgstr ""
+
+#: ../functions.php:60
+msgid "Your options are restored from previous backup successfully"
+msgstr ""
+
+#: ../functions.php:61
+msgid "Restore Process not working"
+msgstr ""
+
+#: ../functions.php:62
+msgid "Click ok import options from the above textarea"
+msgstr ""
+
+#: ../functions.php:63
+msgid "Your options are imported successfully"
+msgstr ""
+
+#: ../functions.php:64
+msgid "Import Process not working"
+msgstr ""
+
+#: ../header.php:81 ../framework/theme-options/colors.php:9
+#: ../framework/theme-options/colors.php:163
+#: ../framework/theme-options/fonts.php:332
+#: ../framework/theme-options/fonts.php:377
+#: ../framework/theme-options/import.php:42
+#: ../framework/theme-options/layout.php:9
+#: ../framework/theme-options/layout.php:595
+msgid "Menu"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Enter Keyword"
+msgstr ""
+
+#: ../searchform.php:9
+msgid "Go"
+msgstr ""
+
+#: ../tpl-blog.php:132 ../tpl-blog.php:152 ../tpl-blog.php:174
+#: ../tpl-blog.php:194 ../tpl-blog.php:203 ../tpl-blog.php:235
+#: ../tpl-blog.php:292 ../tpl-blog.php:337 ../tpl-portfolio.php:231
+#: ../framework/loops/content-archive.php:86
+#: ../framework/loops/content-archive.php:106
+#: ../framework/loops/content-archive.php:128
+#: ../framework/loops/content-archive.php:148
+#: ../framework/loops/content-archive.php:157
+#: ../framework/loops/content-archive.php:187
+#: ../framework/loops/content-archive.php:248
+#: ../framework/loops/content-archive.php:298
+#: ../framework/loops/content-single.php:37
+#: ../framework/loops/content-single.php:57
+#: ../framework/loops/content-single.php:79
+#: ../framework/loops/content-single.php:99
+#: ../framework/loops/content-single.php:108
+#: ../framework/loops/content-single.php:136
+#: ../framework/loops/content-single.php:178
+#: ../framework/loops/content-single.php:213
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../tpl-blog.php:249 ../tpl-blog.php:281 ../tpl-blog.php:331
+#: ../framework/loops/content-archive.php:200
+#: ../framework/loops/content-archive.php:237
+#: ../framework/loops/content-archive.php:292
+#: ../framework/loops/content-single.php:150
+#: ../framework/loops/content-single.php:169
+#: ../framework/loops/content-single.php:207
+msgid "View all posts by "
+msgstr ""
+
+#: ../tpl-blog.php:321 ../framework/loops/content-archive.php:282
+#: ../framework/loops/content-single.php:201
+msgid "Posted on"
+msgstr ""
+
+#: ../tpl-comingsoon.php:37
+msgid "Website is almost ready"
+msgstr ""
+
+#: ../tpl-comingsoon.php:38
+msgid "Our website is under construction."
+msgstr ""
+
+#: ../tpl-comingsoon.php:39
+msgid "We'll be here soon with our new awesome."
+msgstr ""
+
+#: ../tpl-comingsoon.php:48
+msgid "Days"
+msgstr ""
+
+#: ../tpl-comingsoon.php:54
+msgid "Hours"
+msgstr ""
+
+#: ../tpl-comingsoon.php:60
+msgid "Minutes"
+msgstr ""
+
+#: ../tpl-comingsoon.php:66
+msgid "Seconds"
+msgstr ""
+
+#: ../tpl-portfolio.php:59 ../framework/loops/content-page.php:13
+#: ../framework/loops/content-single.php:158
+#: ../framework/loops/content-single.php:193
+#: ../framework/loops/content-single.php:228
+msgid " Edit "
+msgstr ""
+
+#: ../tpl-portfolio.php:135 ../framework/theme-metaboxes/page-metabox.php:478
+#: ../framework/theme-metaboxes/page-metabox.php:651
+#: ../framework/theme-options/import.php:40
+#: ../framework/theme-options/import.php:55
+msgid "All"
+msgstr ""
+
+#: ../bbpress/form-forum.php:35 ../bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: ../bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: ../bbpress/form-forum.php:55 ../bbpress/form-reply.php:44
+#: ../bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-forum.php:82 ../bbpress/form-reply.php:64
+#: ../bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: ../bbpress/form-forum.php:138 ../bbpress/form-reply-move.php:72
+#: ../bbpress/form-reply.php:135 ../bbpress/form-topic-merge.php:93
+#: ../bbpress/form-topic-split.php:97 ../bbpress/form-topic.php:203
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../bbpress/form-forum.php:161
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:24
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:41 ../bbpress/form-topic-split.php:41
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:42
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:49 ../bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:68 ../bbpress/form-topic-merge.php:89
+#: ../bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: ../bbpress/form-reply.php:29
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: ../bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-reply.php:75
+msgid "Tags:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:93 ../bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:97 ../bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:114 ../bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:118 ../bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:158
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:166 ../bbpress/form-topic.php:226
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:24
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:64 ../bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:106 ../bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:106 ../bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:24
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:42
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr ""
+
+#: ../bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr ""
+
+#: ../bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr ""
+
+#: ../bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: ../bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:21 ../bbpress/loop-replies.php:32
+#: ../bbpress/loop-replies.php:70 ../bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:21 ../bbpress/loop-replies.php:24
+#: ../bbpress/loop-replies.php:66 ../bbpress/loop-topics.php:21
+#: ../framework/theme-options/import.php:57
+msgid "Posts"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:22 ../bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: ../bbpress/loop-replies.php:18 ../bbpress/loop-replies.php:60
+msgid "Author"
+msgstr ""
+
+#: ../bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: ../bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:20
+msgid "Subscribed Forums"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:29
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:29
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:35
+msgid "Subscribed Topics"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:48
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:48
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: ../buddypress/activity/entry.php:64
+msgid "View Conversation"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:72
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:80
+msgid "Mark as Favorite"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:80
+msgid "Favorite"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:84
+msgid "Remove Favorite"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:130
+#: ../framework/theme-options/pageoptions.php:8
+#: ../framework/theme-options/pageoptions.php:20
+msgid "Post"
+msgstr ""
+
+#: ../buddypress/activity/entry.php:130 ../framework/register-mega-menu.php:275
+#: ../framework/theme-options/layout.php:1172
+#: ../framework/theme-options/layout.php:1191
+#: ../framework/theme-options/widgetarea.php:41
+#: ../framework/theme-options/widgetarea.php:60
+msgid "Cancel"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:31
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:33
+#, php-format
+msgid "What's new, %s?"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:45
+msgid "Post Update"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:52
+msgid "Post in"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:55
+msgid "My Profile"
+msgstr ""
+
+#: ../buddypress/groups/groups-loop.php:63
+#: ../buddypress/groups/single/group-header.php:63
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: ../buddypress/groups/groups-loop.php:125
+msgid "There were no groups found."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:30
+msgid "Group Name (required)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:33
+msgid "Group Description (required)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:47
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:60
+#: ../buddypress/groups/single/admin.php:159
+msgid "Save Changes"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:82
+msgid "Enable discussion forum"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:91
+msgid "Privacy Options"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:96
+msgid "This is a public group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:98
+msgid "Any site member can join this group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:99
+#: ../buddypress/groups/single/admin.php:109
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:100
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:106
+msgid "This is a private group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:108
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:110
+#: ../buddypress/groups/single/admin.php:120
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:116
+msgid "This is a hidden group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:118
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:119
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:127
+msgid "Group Invitations"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:129
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:134
+msgid "All group members"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:139
+msgid "Group admins and mods only"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:144
+msgid "Group admins only"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:169
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:173
+msgid "Upload Image"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:179
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:181
+msgid "Delete Group Profile Photo"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:199
+msgid "Crop Profile Photo"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:201
+msgid "Profile photo to crop"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:204
+msgid "Profile photo preview"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:207
+msgid "Crop Image"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:234
+msgid "Administrators"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:242
+#: ../buddypress/groups/single/admin.php:269
+#, php-format
+msgid "Profile picture of %s"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:247
+#: ../buddypress/groups/single/admin.php:274
+msgid "Demote to Member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:262
+msgid "Moderators"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:273
+#: ../buddypress/groups/single/admin.php:327
+msgid "Promote to Admin"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:288
+msgid "Members"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:317
+msgid "(banned)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:323
+msgid "Unban this member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:323
+msgid "Remove Ban"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "Kick and ban this member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "Promote to Mod"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:331
+msgid "Remove this member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:331
+msgid "Remove from group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:352
+msgid "This group has no members."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:423
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:426
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:438
+msgid "Delete Group"
+msgstr ""
+
+#: ../buddypress/groups/single/group-header.php:34
+msgid "Group Mods"
+msgstr ""
+
+#: ../buddypress/groups/single/group-header.php:102
+msgid "Group Admins"
+msgstr ""
+
+#: ../buddypress/groups/single/home.php:38
+msgid "Group primary navigation"
+msgstr ""
+
+#: ../buddypress/members/members-loop.php:147
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: ../demo-content/default/manifest.php:7
+msgid "Default Demo"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:393
+#: ../framework/class-tgm-plugin-activation.php:912
+#: ../framework/class-tgm-plugin-activation.php:2618
+#: ../framework/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:394
+#: ../framework/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1019
+#: ../framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3594
+#: ../framework/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3594
+#: ../framework/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/register-functions.php:258
+msgid "Load more"
+msgstr ""
+
+#: ../framework/register-functions.php:276
+msgid "Prev"
+msgstr ""
+
+#: ../framework/register-functions.php:277
+msgid "Next"
+msgstr ""
+
+#: ../framework/register-functions.php:343
+#: ../framework/register-functions.php:350
+msgid "Home"
+msgstr ""
+
+#: ../framework/register-functions.php:400
+msgid "Search"
+msgstr ""
+
+#: ../framework/register-functions.php:589
+#, php-format
+msgid "Events for %s"
+msgstr ""
+
+#: ../framework/register-functions.php:591
+#, php-format
+msgid "Events for week of %s"
+msgstr ""
+
+#: ../framework/register-functions.php:593
+msgid "Events for"
+msgstr ""
+
+#: ../framework/register-functions.php:596
+msgid "Past Events"
+msgstr ""
+
+#: ../framework/register-functions.php:598
+#: ../framework/register-functions.php:602
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../framework/register-functions.php:611
+msgid "Tag Archives"
+msgstr ""
+
+#: ../framework/register-functions.php:848
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/register-functions.php:850
+#: ../framework/register-functions.php:877
+#: ../framework/theme-options/layout.php:1162
+#: ../framework/theme-options/layout.php:1183
+#: ../framework/theme-options/widgetarea.php:34
+#: ../framework/theme-options/widgetarea.php:52
+msgid "Edit"
+msgstr ""
+
+#: ../framework/register-functions.php:875
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/register-functions.php:880
+msgid "Reply"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:49
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:53
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:65
+msgid "sub item"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:80
+msgid "Move up"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:93
+msgid "Move down"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:95
+#: ../framework/register-mega-menu.php:97
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:106
+msgid "URL"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:113
+msgid "Navigation Label"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:119
+msgid "Title Attribute"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:126
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:131
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:137
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:143
+msgid "Description"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:145
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../framework/register-mega-menu.php:154
+msgid "Use As Mega Menu"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:162
+msgid "Disable Text"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:170
+msgid "Disable Link"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:178
+msgid "Enable Full width"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:185
+msgid "Sub Menu Column Layout"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:191
+msgid "Select where to align the submenu."
+msgstr ""
+
+#: ../framework/register-mega-menu.php:198
+msgid "Menu Icon"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:200
+msgid "Please use font awesome icon "
+msgstr ""
+
+#: ../framework/register-mega-menu.php:207
+msgid "Menu Background"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:209
+msgid "Please use image url"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:216
+msgid "Display Widget Area"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:218
+#: ../framework/theme-metaboxes/event-metabox.php:32
+#: ../framework/theme-metaboxes/event-metabox.php:50
+#: ../framework/theme-metaboxes/event-metabox.php:63
+#: ../framework/theme-metaboxes/page-metabox.php:37
+#: ../framework/theme-metaboxes/page-metabox.php:213
+#: ../framework/theme-metaboxes/page-metabox.php:226
+#: ../framework/theme-metaboxes/page-metabox.php:238
+#: ../framework/theme-metaboxes/post-metabox.php:33
+#: ../framework/theme-metaboxes/post-metabox.php:51
+#: ../framework/theme-metaboxes/post-metabox.php:64
+#: ../framework/theme-options/import.php:26
+#: ../framework/theme-options/import.php:39
+#: ../framework/theme-options/layout.php:213
+#: ../framework/theme-options/layout.php:227
+#: ../framework/theme-options/layout.php:239
+#: ../framework/theme-options/layout.php:329
+#: ../framework/theme-options/layout.php:404
+#: ../framework/theme-options/layout.php:549
+#: ../framework/theme-options/layout.php:560
+#: ../framework/theme-options/layout.php:1283
+#: ../framework/theme-options/layout.php:1303
+#: ../framework/theme-options/pageoptions.php:647
+#: ../framework/theme-options/pageoptions.php:921
+#: ../framework/widgets/widget-recent-portfolios.php:25
+#: ../framework/widgets/widget-recent-posts.php:27
+msgid "Select"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:228
+msgid "Select widget area to show."
+msgstr ""
+
+#: ../framework/register-mega-menu.php:235
+msgid "Fill Widget Area Layout"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:237
+msgid "select"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:242
+msgid "Only works if you choose widget area"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:249
+msgid "Move"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:250
+msgid "Up one"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:251
+msgid "Down one"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:254
+msgid "To the top"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:261
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../framework/register-mega-menu.php:274
+#: ../framework/theme-metaboxes/event-metabox.php:23
+#: ../framework/theme-metaboxes/page-metabox.php:187
+#: ../framework/theme-metaboxes/post-metabox.php:24
+#: ../framework/theme-options/attorney.php:32
+#: ../framework/theme-options/attorney.php:40
+#: ../framework/theme-options/event.php:31
+#: ../framework/theme-options/event.php:39
+#: ../framework/theme-options/fonts.php:186
+#: ../framework/theme-options/fonts.php:195
+#: ../framework/theme-options/fonts.php:204
+#: ../framework/theme-options/fonts.php:213
+#: ../framework/theme-options/fonts.php:229
+#: ../framework/theme-options/fonts.php:238
+#: ../framework/theme-options/fonts.php:247
+#: ../framework/theme-options/fonts.php:256
+#: ../framework/theme-options/general.php:155
+#: ../framework/theme-options/layout.php:52
+#: ../framework/theme-options/layout.php:63
+#: ../framework/theme-options/layout.php:83
+#: ../framework/theme-options/layout.php:94
+#: ../framework/theme-options/layout.php:105
+#: ../framework/theme-options/layout.php:116
+#: ../framework/theme-options/layout.php:127
+#: ../framework/theme-options/layout.php:160
+#: ../framework/theme-options/layout.php:204
+#: ../framework/theme-options/layout.php:373
+#: ../framework/theme-options/layout.php:540
+#: ../framework/theme-options/layout.php:1170
+#: ../framework/theme-options/layout.php:1189
+#: ../framework/theme-options/layout.php:1267
+#: ../framework/theme-options/medical.php:33
+#: ../framework/theme-options/medical.php:41
+#: ../framework/theme-options/models.php:32
+#: ../framework/theme-options/models.php:40
+#: ../framework/theme-options/pageoptions.php:507
+#: ../framework/theme-options/pageoptions.php:514
+#: ../framework/theme-options/pageoptions.php:617
+#: ../framework/theme-options/pageoptions.php:891
+#: ../framework/theme-options/programs.php:103
+#: ../framework/theme-options/programs.php:111
+#: ../framework/theme-options/programs.php:186
+#: ../framework/theme-options/programs.php:194
+#: ../framework/theme-options/restaurant.php:103
+#: ../framework/theme-options/restaurant.php:111
+#: ../framework/theme-options/restaurant.php:179
+#: ../framework/theme-options/restaurant.php:187
+#: ../framework/theme-options/rooms.php:104
+#: ../framework/theme-options/rooms.php:112
+#: ../framework/theme-options/university.php:63
+#: ../framework/theme-options/university.php:127
+#: ../framework/theme-options/university.php:134
+#: ../framework/theme-options/widgetarea.php:39
+#: ../framework/theme-options/widgetarea.php:58
+#: ../framework/theme-options/yoga.php:129
+#: ../framework/theme-options/yoga.php:136
+msgid "Remove"
+msgstr ""
+
+#: ../framework/register-menu.php:10 ../framework/theme-options/fonts.php:278
+msgid "Main Menu"
+msgstr ""
+
+#: ../framework/register-menu.php:11
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../framework/register-menu.php:12
+msgid "Shortcode Menu"
+msgstr ""
+
+#: ../framework/register-plugins.php:63
+msgid "Visual Composer"
+msgstr ""
+
+#: ../framework/register-plugins.php:73
+msgid "Ultimate Addons for Visual Composer"
+msgstr ""
+
+#: ../framework/register-plugins.php:81
+#: ../framework/theme-metaboxes/page-metabox.php:38
+#: ../framework/theme-metaboxes/page-metabox.php:68
+msgid "Layer Slider"
+msgstr ""
+
+#: ../framework/register-plugins.php:88
+#: ../framework/theme-metaboxes/page-metabox.php:104
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../framework/register-plugins.php:95
+msgid "Responsive Google Maps"
+msgstr ""
+
+#: ../framework/register-plugins.php:102
+msgid "DesignThemes Core Features Plugin"
+msgstr ""
+
+#: ../framework/register-plugins.php:112
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../framework/register-plugins.php:118
+msgid "WooCommerce - excelling eCommerce"
+msgstr ""
+
+#: ../framework/register-plugins.php:124
+msgid "The Events Calendar"
+msgstr ""
+
+#: ../framework/register-plugins.php:130
+msgid "Envato WordPress Toolkit"
+msgstr ""
+
+#: ../framework/register-plugins.php:136
+msgid "Unyson"
+msgstr ""
+
+#: ../framework/register-widgets.php:17
+msgid "Standard | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:19
+msgid "Appears in the Left side of the site, one enabled."
+msgstr ""
+
+#: ../framework/register-widgets.php:27
+msgid "Standard | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:29
+msgid "Appears in the Right side of the site, one enabled."
+msgstr ""
+
+#: ../framework/register-widgets.php:46
+msgid "Custom sidebar created in Theme Options."
+msgstr ""
+
+#: ../framework/register-widgets.php:59 ../framework/register-widgets.php:81
+msgid "Post Archives | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:61 ../framework/register-widgets.php:83
+msgid "Appears in the Left side of Post Archives Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:70 ../framework/register-widgets.php:90
+msgid "Post Archives | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:72 ../framework/register-widgets.php:92
+msgid "Appears in the Right side of Post Archives Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:104
+msgid "Events | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:106
+msgid "Main sidebar for The Events Calendar pages that appears on the left."
+msgstr ""
+
+#: ../framework/register-widgets.php:114
+msgid "Events | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:116
+msgid "Main sidebar for The Events Calendar pages that appears on the right."
+msgstr ""
+
+#: ../framework/register-widgets.php:130 ../framework/register-widgets.php:152
+msgid "Portfolio Archives | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:132 ../framework/register-widgets.php:154
+msgid "Appears in the Left side of Portfolio Archives Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:141 ../framework/register-widgets.php:161
+msgid "Portfolio Archives | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:143 ../framework/register-widgets.php:163
+msgid "Appears in the Right side of Portfolio Archives Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:176
+msgid "Shop | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:178
+msgid "Main sidebar for The Shop pages that appears on the left."
+msgstr ""
+
+#: ../framework/register-widgets.php:186
+msgid "Shop | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:188
+msgid "Main sidebar for The Shop pages that appears on the right."
+msgstr ""
+
+#: ../framework/register-widgets.php:200 ../framework/register-widgets.php:222
+msgid "Product Detail | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:202 ../framework/register-widgets.php:224
+msgid "Appears in the Left side of Product details Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:211 ../framework/register-widgets.php:231
+msgid "Product Detail | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:213 ../framework/register-widgets.php:233
+msgid "Appears in the Right side of Product details Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:247 ../framework/register-widgets.php:269
+msgid "Product Category | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:249 ../framework/register-widgets.php:271
+msgid "Appears on Left side of Product Category Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:258 ../framework/register-widgets.php:278
+msgid "Product Category | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:260 ../framework/register-widgets.php:280
+msgid "Appears on Right side of Product Category Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:294 ../framework/register-widgets.php:316
+msgid "Product Tag | Left Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:296 ../framework/register-widgets.php:318
+msgid "Appears on Left side of Product Tag Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:305 ../framework/register-widgets.php:325
+msgid "Product Tag | Right Sidebar"
+msgstr ""
+
+#: ../framework/register-widgets.php:307 ../framework/register-widgets.php:327
+msgid "Appears on Right side of Product Tag Page."
+msgstr ""
+
+#: ../framework/register-widgets.php:344
+msgid "Footer Column"
+msgstr ""
+
+#: ../framework/register-widgets.php:350 ../framework/register-widgets.php:364
+#: ../framework/register-widgets.php:378 ../framework/register-widgets.php:392
+#: ../framework/register-widgets.php:405
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../framework/register-woocommerce.php:331
+msgid "Sale"
+msgstr ""
+
+#: ../framework/register-woocommerce.php:334
+#: ../framework/register-woocommerce.php:471
+msgid "Out of Stock"
+msgstr ""
+
+#: ../framework/register-woocommerce.php:337
+#: ../framework/register-woocommerce.php:474
+msgid "Featured"
+msgstr ""
+
+#: ../framework/register-woocommerce.php:468
+msgid "Sale!"
+msgstr ""
+
+#: ../framework/loops/content-archive.php:219
+#: ../framework/loops/content-archive.php:272
+#: ../framework/loops/content-archive.php:322
+#: ../framework/theme-options/pageoptions.php:170
+msgid "Read More"
+msgstr ""
+
+#: ../framework/loops/content-archive.php:339
+msgid "Nothing Found."
+msgstr ""
+
+#: ../framework/loops/content-archive.php:340
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../framework/loops/content-single.php:240
+msgid "About Author"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:6
+msgid "Event Options"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:17
+#: ../framework/theme-metaboxes/page-metabox.php:182
+#: ../framework/theme-metaboxes/post-metabox.php:18
+msgid "Title Background"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:22
+#: ../framework/theme-metaboxes/page-metabox.php:186
+#: ../framework/theme-metaboxes/post-metabox.php:23
+#: ../framework/theme-options/fonts.php:185
+#: ../framework/theme-options/fonts.php:194
+#: ../framework/theme-options/fonts.php:203
+#: ../framework/theme-options/fonts.php:212
+#: ../framework/theme-options/fonts.php:228
+#: ../framework/theme-options/fonts.php:237
+#: ../framework/theme-options/fonts.php:246
+#: ../framework/theme-options/fonts.php:255
+#: ../framework/theme-options/general.php:154
+#: ../framework/theme-options/layout.php:51
+#: ../framework/theme-options/layout.php:62
+#: ../framework/theme-options/layout.php:82
+#: ../framework/theme-options/layout.php:93
+#: ../framework/theme-options/layout.php:104
+#: ../framework/theme-options/layout.php:115
+#: ../framework/theme-options/layout.php:126
+#: ../framework/theme-options/layout.php:203
+#: ../framework/theme-options/layout.php:372
+#: ../framework/theme-options/layout.php:539
+#: ../framework/theme-options/layout.php:1266
+#: ../framework/theme-options/pageoptions.php:616
+#: ../framework/theme-options/pageoptions.php:890
+msgid "Upload"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:25
+#: ../framework/theme-metaboxes/page-metabox.php:189
+#: ../framework/theme-metaboxes/post-metabox.php:26
+#: ../framework/theme-options/layout.php:206
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:29
+#: ../framework/theme-metaboxes/page-metabox.php:235
+#: ../framework/theme-metaboxes/post-metabox.php:30
+#: ../framework/theme-options/layout.php:210
+msgid "Opacity"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:37
+#: ../framework/theme-metaboxes/page-metabox.php:243
+#: ../framework/theme-metaboxes/post-metabox.php:38
+#: ../framework/theme-options/layout.php:218
+msgid "Select background color opacity"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:46
+#: ../framework/theme-metaboxes/page-metabox.php:209
+#: ../framework/theme-metaboxes/post-metabox.php:47
+#: ../framework/theme-options/layout.php:224
+#: ../framework/theme-options/layout.php:546
+msgid "Background Repeat"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:55
+#: ../framework/theme-options/layout.php:232
+#: ../framework/theme-options/layout.php:385
+#: ../framework/theme-options/layout.php:1289
+#: ../framework/theme-options/pageoptions.php:629
+#: ../framework/theme-options/pageoptions.php:903
+msgid "Select how would you like to repeat the background image"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:59
+#: ../framework/theme-metaboxes/page-metabox.php:222
+#: ../framework/theme-metaboxes/post-metabox.php:60
+#: ../framework/theme-options/layout.php:236
+#: ../framework/theme-options/layout.php:557
+msgid "Background Position"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:68
+#: ../framework/theme-options/layout.php:244
+#: ../framework/theme-options/layout.php:392
+#: ../framework/theme-options/layout.php:1309
+#: ../framework/theme-options/pageoptions.php:636
+#: ../framework/theme-options/pageoptions.php:910
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:72
+#: ../framework/theme-metaboxes/page-metabox.php:193
+#: ../framework/theme-metaboxes/post-metabox.php:73
+#: ../framework/theme-options/layout.php:248
+#: ../framework/theme-options/layout.php:423
+#: ../framework/theme-options/layout.php:810
+#: ../framework/theme-options/pageoptions.php:667
+#: ../framework/theme-options/pageoptions.php:941
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:75
+#: ../framework/theme-options/layout.php:251
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:87
+#: ../framework/theme-metaboxes/page-metabox.php:250
+#: ../framework/theme-metaboxes/post-metabox.php:88
+#: ../framework/theme-options/attorney.php:67
+#: ../framework/theme-options/layout.php:271
+#: ../framework/theme-options/medical.php:74
+#: ../framework/theme-options/pageoptions.php:76
+#: ../framework/theme-options/pageoptions.php:125
+#: ../framework/theme-options/pageoptions.php:370
+#: ../framework/theme-options/pageoptions.php:419
+#: ../framework/theme-options/programs.php:21
+#: ../framework/theme-options/programs.php:70
+#: ../framework/theme-options/restaurant.php:21
+#: ../framework/theme-options/restaurant.php:70
+#: ../framework/theme-options/rooms.php:21
+#: ../framework/theme-options/rooms.php:70
+#: ../framework/theme-options/settings.php:37
+#: ../framework/theme-options/university.php:189
+#: ../framework/theme-options/woocommerce.php:52
+#: ../framework/theme-options/woocommerce.php:75
+#: ../framework/theme-options/woocommerce.php:136
+#: ../framework/theme-options/woocommerce.php:185
+msgid "Layout"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:100
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:120
+#: ../framework/theme-metaboxes/page-metabox.php:282
+#: ../framework/theme-metaboxes/post-metabox.php:121
+#: ../framework/theme-options/attorney.php:99
+#: ../framework/theme-options/medical.php:104
+#: ../framework/theme-options/pageoptions.php:104
+#: ../framework/theme-options/pageoptions.php:398
+#: ../framework/theme-options/programs.php:50
+#: ../framework/theme-options/restaurant.php:50
+#: ../framework/theme-options/rooms.php:50
+#: ../framework/theme-options/university.php:219
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:129
+msgid "Yes! to show \"Standard Left Sidebar\" on this page."
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:135
+#: ../framework/theme-metaboxes/page-metabox.php:297
+#: ../framework/theme-metaboxes/post-metabox.php:136
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:139
+#: ../framework/theme-metaboxes/event-metabox.php:174
+#: ../framework/theme-metaboxes/page-metabox.php:301
+#: ../framework/theme-metaboxes/page-metabox.php:335
+#: ../framework/theme-metaboxes/post-metabox.php:140
+#: ../framework/theme-metaboxes/post-metabox.php:175
+msgid "Select Widget Area"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:155
+#: ../framework/theme-metaboxes/page-metabox.php:316
+#: ../framework/theme-metaboxes/post-metabox.php:156
+#: ../framework/theme-options/attorney.php:107
+#: ../framework/theme-options/medical.php:112
+#: ../framework/theme-options/pageoptions.php:112
+#: ../framework/theme-options/pageoptions.php:406
+#: ../framework/theme-options/programs.php:58
+#: ../framework/theme-options/restaurant.php:58
+#: ../framework/theme-options/rooms.php:58
+#: ../framework/theme-options/university.php:225
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:164
+msgid "Yes! to show \"Standard Right Sidebar\" on this page."
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:170
+#: ../framework/theme-metaboxes/page-metabox.php:331
+#: ../framework/theme-metaboxes/post-metabox.php:171
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:192
+#: ../framework/theme-metaboxes/page-metabox.php:396
+#: ../framework/theme-metaboxes/page-metabox.php:599
+#: ../framework/theme-options/attorney.php:54
+#: ../framework/theme-options/medical.php:55
+#: ../framework/theme-options/university.php:234
+msgid "Post Style"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:198
+#: ../framework/theme-metaboxes/page-metabox.php:605
+#: ../framework/theme-options/pageoptions.php:337
+#: ../framework/theme-options/pageoptions.php:445
+#: ../framework/theme-options/pageoptions.php:567
+#: ../framework/theme-options/pageoptions.php:807
+#: ../framework/theme-options/woocommerce.php:40
+msgid "Classic"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:199
+msgid "Full Width"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:200
+msgid "Minimal Tab"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:201
+msgid "Clean"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:202
+#: ../framework/theme-options/pageoptions.php:567
+#: ../framework/theme-options/woocommerce.php:36
+msgid "Modern"
+msgstr ""
+
+#: ../framework/theme-metaboxes/event-metabox.php:208
+msgid "Your event post page show at most selected style."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:6
+msgid "Slider Options"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:7
+msgid "Default page Options"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:20
+msgid "Show Slider"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:27
+msgid "YES! to show slider on this page."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:34
+msgid "Choose Slider"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:39
+msgid "Revolution Responsive"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:40
+msgid "Custom Slider Shortcode"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:49
+msgid "Select a slider for your page"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:77
+msgid "Select LayerSlider"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:81
+#: ../framework/theme-metaboxes/page-metabox.php:113
+#: ../framework/theme-metaboxes/page-metabox.php:117
+msgid "Select Slider"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:90
+msgid "Choose Which LayerSlider you would like to use.."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:95
+msgid "Please add at leat one layer slider"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:98
+msgid "Please activate Layered Slider"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:126
+msgid "Choose which Revolution slider would you like to use!"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:131
+msgid "Please add at leat one revolution slider"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:134
+msgid "Please activate Revolution Slider , and add at least one slider."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:140
+msgid "Custom Slider"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:144
+msgid "Shortcode"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:149
+msgid "Enter your custom slider shortcode."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:171
+msgid "Enable Subtitle Section"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:178
+msgid "YES! to enable subtitle section"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:196
+#: ../framework/theme-metaboxes/post-metabox.php:76
+msgid "Select background color for sub title section"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:218
+#: ../framework/theme-metaboxes/post-metabox.php:56
+msgid "Select background image repeat style"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:231
+#: ../framework/theme-metaboxes/post-metabox.php:69
+msgid "Select background image position"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:263
+msgid "You can choose a perfect layout for your page"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:291
+#: ../framework/theme-metaboxes/post-metabox.php:130
+msgid "Yes! to show Standard Left Sidebar"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:325
+#: ../framework/theme-metaboxes/post-metabox.php:165
+msgid "Yes! to show Standard Right Sidebar"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:353
+msgid "Choose Menu"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:365
+msgid ""
+"Select a menu items work as one page. Note: It doesn't work for split menu."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:375
+#: ../framework/theme-metaboxes/page-metabox.php:577
+msgid "Posts Layout"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:379
+msgid "Single post per row."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:380
+#: ../framework/theme-metaboxes/page-metabox.php:581
+#: ../framework/theme-options/pageoptions.php:130
+#: ../framework/theme-options/pageoptions.php:424
+#: ../framework/theme-options/programs.php:75
+#: ../framework/theme-options/restaurant.php:75
+#: ../framework/theme-options/rooms.php:75
+msgid "Two posts per row."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:381
+#: ../framework/theme-metaboxes/page-metabox.php:582
+#: ../framework/theme-options/pageoptions.php:131
+#: ../framework/theme-options/pageoptions.php:425
+#: ../framework/theme-options/programs.php:75
+#: ../framework/theme-options/restaurant.php:75
+#: ../framework/theme-options/rooms.php:76
+msgid "Three posts per row."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:389
+msgid "You can choose perfect column style for your blog posts"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:402
+#: ../framework/theme-options/import.php:27
+#: ../framework/theme-options/layout.php:156
+#: ../framework/theme-options/layout.php:184
+#: ../framework/theme-options/layout.php:687
+#: ../framework/theme-options/layout.php:851
+#: ../framework/theme-options/layout.php:968
+#: ../framework/theme-options/pageoptions.php:206
+msgid "Default"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:403
+#: ../framework/theme-options/pageoptions.php:207
+msgid "Date Left"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:404
+#: ../framework/theme-options/pageoptions.php:208
+msgid "Date and Author Left"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:405
+#: ../framework/theme-options/pageoptions.php:209
+msgid "Medium"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:406
+msgid "Medium Highlight"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:407
+#: ../framework/theme-options/pageoptions.php:211
+msgid "Medium Skin Highlight"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:413
+msgid "Select a style to show blog post"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:421
+msgid "Enable Readmore"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:428
+#: ../framework/theme-options/pageoptions.php:179
+msgid "YES! to enable read more button"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:436
+msgid "Read More Button"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:441
+msgid "Enter button shortcode"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:448
+#: ../framework/theme-options/pageoptions.php:144
+msgid "Allow Excerpt"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:455
+msgid "YES! to enable excerpt"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:462
+#: ../framework/theme-options/pageoptions.php:158
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:467
+msgid ""
+"Limit! Number of characters from the content to appear on each blog post "
+"(Number Only)"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:474
+#: ../framework/theme-metaboxes/page-metabox.php:647
+msgid "Post per page"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:484
+#: ../framework/theme-metaboxes/page-metabox.php:657
+msgid "Select number of posts per page."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:491
+#: ../framework/theme-metaboxes/page-metabox.php:664
+msgid "Choose Categories"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:496
+#: ../framework/theme-metaboxes/page-metabox.php:669
+msgid "Select Categories"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:505
+msgid "Select categories to exclude from your blog page."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:511
+msgid "Post Meta Options"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:515
+msgid "Show the post format info."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:516
+msgid ""
+"By default the post format info will display when viewing your posts. You "
+"can easily disable it here."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:519
+msgid "Show the Author info."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:520
+msgid ""
+"By default the author info will display when viewing your posts. You can "
+"easily disable it here."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:523
+msgid "Show the date info."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:524
+msgid ""
+"By default the date info will display when viewing your posts. You can "
+"easily disable it here."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:528
+msgid "Show the comment"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:529
+msgid ""
+"By default the comment will display when viewing your posts. You can easily "
+"disable it here."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:533
+msgid "Show the category"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:534
+msgid ""
+"By default the category will display when viewing your posts. You can easily "
+"disable it here."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:538
+msgid "Show the tag"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:539
+msgid ""
+"By default the tag will display when viewing your posts. You can easily "
+"disable it here."
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:583
+msgid "Four Posts per row"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:591
+msgid "You can choose perfect column style for your portfolio items"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:604
+#: ../framework/theme-options/pageoptions.php:336
+#: ../framework/theme-options/pageoptions.php:444
+msgid "Modern Title"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:604
+#: ../framework/theme-options/pageoptions.php:336
+#: ../framework/theme-options/pageoptions.php:444
+msgid "Title & Icons Overlay"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:604
+#: ../framework/theme-options/pageoptions.php:336
+#: ../framework/theme-options/pageoptions.php:444
+msgid "Title Overlay"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:605
+#: ../framework/theme-options/pageoptions.php:337
+#: ../framework/theme-options/pageoptions.php:445
+msgid "Icons Only"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:605
+#: ../framework/theme-options/pageoptions.php:337
+#: ../framework/theme-options/pageoptions.php:445
+msgid "Minimal Icons"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:606
+#: ../framework/theme-options/pageoptions.php:338
+#: ../framework/theme-options/pageoptions.php:446
+msgid "Presentation"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:606
+#: ../framework/theme-options/pageoptions.php:338
+#: ../framework/theme-options/pageoptions.php:446
+#: ../framework/theme-options/woocommerce.php:35
+msgid "Girly"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:606
+#: ../framework/theme-options/pageoptions.php:338
+#: ../framework/theme-options/pageoptions.php:446
+msgid "Art"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:612
+msgid "Select a style to show portfolio item"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:619
+#: ../framework/theme-options/pageoptions.php:462
+msgid "Allow Grid Space"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:626
+msgid "YES! to allow grid space in between portfolio item"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:633
+msgid "Allow Filters"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:640
+msgid "YES! to allow filter options for portfolio items"
+msgstr ""
+
+#: ../framework/theme-metaboxes/page-metabox.php:678
+msgid "Select categories to show in portfolio items."
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:6
+msgid "Post Options"
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:7
+msgid "Post Format Options"
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:101
+msgid "You can choose a perfect layout for your post"
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:193
+msgid "Show Featured Image"
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:203
+msgid "YES! to show featured image"
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:216
+msgid "Image Gallery"
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:219
+msgid "Click Here to Add Images"
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:256
+msgid "oEmbed URL"
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:260
+msgid ""
+"Enter a URL that is compatible with WP's built-in oEmbed feature. This "
+"setting is used for your video and audio post formats."
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:265
+msgid "Self Hosted URL"
+msgstr ""
+
+#: ../framework/theme-metaboxes/post-metabox.php:269
+msgid "Insert your self hosted video or audio url here."
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:8
+msgid "Attorneys"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:17
+msgid "Attorney Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:22
+#: ../framework/theme-options/event.php:21
+#: ../framework/theme-options/medical.php:23
+#: ../framework/theme-options/models.php:22
+#: ../framework/theme-options/pageoptions.php:496
+#: ../framework/theme-options/programs.php:93
+#: ../framework/theme-options/programs.php:176
+#: ../framework/theme-options/restaurant.php:93
+#: ../framework/theme-options/restaurant.php:169
+#: ../framework/theme-options/rooms.php:94
+#: ../framework/theme-options/university.php:26
+#: ../framework/theme-options/university.php:116
+#: ../framework/theme-options/yoga.php:118
+msgid "Add New Field"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:49
+#: ../framework/theme-options/medical.php:50
+#: ../framework/theme-options/university.php:13
+msgid "Department"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:50
+#: ../framework/theme-options/medical.php:51
+#: ../framework/theme-options/university.php:184
+#, php-format
+msgid "%s Archive Page Layout"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:58
+#: ../framework/theme-options/medical.php:60
+#: ../framework/theme-options/medical.php:64
+#: ../framework/theme-options/university.php:238
+msgid "Two Columns"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:59
+#: ../framework/theme-options/medical.php:61
+#: ../framework/theme-options/medical.php:65
+#: ../framework/theme-options/university.php:239
+msgid "Three Columns"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:60
+#: ../framework/theme-options/medical.php:66
+#: ../framework/theme-options/university.php:240
+msgid "Four Columns"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:62
+msgid "Choose the attorney post layout style"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:68
+#: ../framework/theme-options/medical.php:75
+#: ../framework/theme-options/university.php:190
+msgid "Choose the archive page layout style"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:117
+#: ../framework/theme-options/event.php:46
+#: ../framework/theme-options/medical.php:122
+#: ../framework/theme-options/models.php:47
+#: ../framework/theme-options/pageoptions.php:521
+#: ../framework/theme-options/programs.php:118
+#: ../framework/theme-options/programs.php:201
+#: ../framework/theme-options/restaurant.php:118
+#: ../framework/theme-options/restaurant.php:194
+#: ../framework/theme-options/rooms.php:119
+#: ../framework/theme-options/university.php:72
+#: ../framework/theme-options/university.php:143
+#: ../framework/theme-options/university.php:264
+#: ../framework/theme-options/yoga.php:33
+#: ../framework/theme-options/yoga.php:73
+#: ../framework/theme-options/yoga.php:145
+#: ../framework/theme-options/yoga.php:186
+#: ../framework/theme-options/yoga.php:221
+#: ../framework/theme-options/yoga.php:256
+#: ../framework/theme-options/yoga.php:313
+#: ../framework/theme-options/yoga.php:348
+msgid "Permalinks"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:121
+msgid "Single Attorney slug"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:124
+msgid ""
+"Do not use characters not allowed in links. Use, eg. attorney-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:128
+msgid "Attorney Department slug"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:131
+msgid ""
+"Do not use characters not allowed in links. Use, eg. attorney-types <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:136
+msgid "Singular Attorney Name"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:139
+msgid "By default \"Attorney\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:143
+msgid "Plural Attorney Name"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:146
+msgid "By default \"Attorneys\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:151
+msgid "Singular Attorney Department Name"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:154
+msgid "By default \"Department\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:158
+msgid "Plural Attorney Department Name"
+msgstr ""
+
+#: ../framework/theme-options/attorney.php:161
+msgid "By default \"Departments\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/backup.php:7
+#: ../framework/theme-options/settings.php:53
+msgid "Backup"
+msgstr ""
+
+#: ../framework/theme-options/backup.php:15
+msgid "Backup & Restore Options"
+msgstr ""
+
+#: ../framework/theme-options/backup.php:20
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: ../framework/theme-options/backup.php:23
+msgid "No backups yet"
+msgstr ""
+
+#: ../framework/theme-options/backup.php:24
+msgid "Last Backup : "
+msgstr ""
+
+#: ../framework/theme-options/backup.php:27
+msgid "Backup Options"
+msgstr ""
+
+#: ../framework/theme-options/backup.php:28
+msgid "Restore Options"
+msgstr ""
+
+#: ../framework/theme-options/changelog.php:12
+msgid " Theme Change Log"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:7
+#: ../framework/theme-options/general.php:7
+#: ../framework/theme-options/general.php:17
+#: ../framework/theme-options/layout.php:7
+#: ../framework/theme-options/settings.php:36
+msgid "General"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:8
+#: ../framework/theme-options/colors.php:91
+#: ../framework/theme-options/layout.php:8
+msgid "Header"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:10
+#: ../framework/theme-options/colors.php:228
+#: ../framework/theme-options/fonts.php:274
+#: ../framework/theme-options/import.php:41
+msgid "Content"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:11
+#: ../framework/theme-options/colors.php:266
+#: ../framework/theme-options/layout.php:11
+#: ../framework/theme-options/layout.php:1207
+msgid "Footer"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:12
+#: ../framework/theme-options/colors.php:349
+msgid "Heading"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:20
+msgid "Skin"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:24
+msgid "Theme Skin"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:28
+msgid "Custom Skin"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:39
+msgid "Choose one of the predefined styles or set your own colors."
+msgstr ""
+
+#: ../framework/theme-options/colors.php:43
+msgid "Body Background Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:48
+msgid "Pick a custom background color of the body.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:55
+msgid "Default Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:60
+#: ../framework/theme-options/colors.php:69
+#: ../framework/theme-options/colors.php:78
+msgid ""
+"Important: This option can be used only with the <b>\"Custom Skin\"</b>."
+msgstr ""
+
+#: ../framework/theme-options/colors.php:64
+msgid "Light Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:73
+msgid "Dark Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:96
+msgid "Header BG Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:101
+msgid "Pick a custom background color of the header.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:106
+#: ../framework/theme-options/colors.php:178
+#: ../framework/theme-options/colors.php:281
+#: ../framework/theme-options/colors.php:299
+#: ../framework/theme-options/layout.php:357
+#: ../framework/theme-options/layout.php:431
+#: ../framework/theme-options/pageoptions.php:675
+#: ../framework/theme-options/pageoptions.php:949
+msgid "Background opacity"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:109
+msgid "You can adjust opacity of the header BG color here."
+msgstr ""
+
+#: ../framework/theme-options/colors.php:115
+msgid "Top Bar"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:119
+msgid "Top Bar BG Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:124
+msgid "Pick a custom background color of the top bar.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:128
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:133
+msgid "Pick a custom text color of the top bar.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:137
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:142
+msgid "Pick a custom link color of the top bar.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:146
+msgid "Top Bar Link Hover Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:151
+msgid "Pick a custom link hover color of the top bar.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:168
+msgid "Menu BG Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:173
+msgid "Pick a custom background color of the menu.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:181
+msgid "You can adjust opacity of the menu BG color here."
+msgstr ""
+
+#: ../framework/theme-options/colors.php:185
+msgid "Menu Link Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:190
+msgid "Pick a custom color of the menu links.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:194
+msgid "Menu Hover Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:199
+msgid "Pick a custom color of the hover menu links.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:203
+msgid "Menu Link Active Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:208
+msgid "Pick a custom color of the active menu links.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:212
+msgid "Menu Link Active BG"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:217
+msgid "Pick a custom color of the active menu links background.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:232
+#: ../framework/theme-options/layout.php:855
+#: ../framework/theme-options/layout.php:889
+#: ../framework/theme-options/layout.php:972
+#: ../framework/theme-options/layout.php:1007
+msgid "Text Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:237
+msgid "Pick a custom color of the body content text.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:241
+msgid "Link Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:246
+msgid "Pick a custom color of the body content link.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:250
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:255
+msgid "Pick a custom hover color of the body content link.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:271
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:276
+msgid "Pick a custom color of the footer background.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:284
+msgid "You can adjust opacity of the footer BG color here."
+msgstr ""
+
+#: ../framework/theme-options/colors.php:289
+msgid "Copyright Section BG Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:294
+msgid "Pick a custom color of the copyright section background.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:302
+msgid "You can adjust opacity of the copyright section BG color here."
+msgstr ""
+
+#: ../framework/theme-options/colors.php:306
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:311
+msgid "Pick a custom color of the footer text elements.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:315
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:320
+msgid "Pick a custom color of the footer links.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:324
+msgid "Footer Hover Link Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:329
+msgid "Pick a custom hover color of the footer links.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:333
+msgid "Footer Heading Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:338
+msgid "Pick a custom color of the footer headings.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:353
+msgid "Heading H1 Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:358
+msgid "Pick a custom color of the heading tag h1.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:362
+msgid "Heading H2 Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:367
+msgid "Pick a custom color of the heading tag h2.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:371
+msgid "Heading H3 Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:376
+msgid "Pick a custom color of the heading tag h3.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:380
+msgid "Heading H4 Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:385
+msgid "Pick a custom color of the heading tag h4.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:389
+msgid "Heading H5 Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:394
+msgid "Pick a custom color of the heading tag h5.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:398
+msgid "Heading H6 Color"
+msgstr ""
+
+#: ../framework/theme-options/colors.php:403
+msgid "Pick a custom color of the heading tag h6.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/event.php:8
+#: ../framework/theme-options/settings.php:49
+msgid "Event"
+msgstr ""
+
+#: ../framework/theme-options/event.php:16
+msgid "DJ Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/event.php:51
+msgid "Singular DJ Name"
+msgstr ""
+
+#: ../framework/theme-options/event.php:54
+msgid "By default \"DJ\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/event.php:58
+msgid "Plural DJ Name"
+msgstr ""
+
+#: ../framework/theme-options/event.php:61
+msgid "By default \"DJs\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:7
+#: ../framework/theme-options/fonts.php:19
+msgid "Font Family"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:8
+#: ../framework/theme-options/fonts.php:269
+msgid "Font Size"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:9
+#: ../framework/theme-options/fonts.php:326
+msgid "Font Weight"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:10
+#: ../framework/theme-options/fonts.php:371
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:11
+#: ../framework/theme-options/layout.php:137
+#: ../framework/theme-options/layout.php:470
+msgid "Others"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:23
+msgid "Content Font"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:27
+#: ../framework/theme-options/fonts.php:57
+#: ../framework/theme-options/fonts.php:87
+#: ../framework/theme-options/fonts.php:120
+msgid "System"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:35
+#: ../framework/theme-options/fonts.php:65
+#: ../framework/theme-options/fonts.php:95
+#: ../framework/theme-options/fonts.php:128
+msgid "Custom (Uploaded below)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:43
+#: ../framework/theme-options/fonts.php:73
+#: ../framework/theme-options/fonts.php:103
+#: ../framework/theme-options/fonts.php:136
+msgid "Google Fonts"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:49
+msgid "All theme texts except headings and menu."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:53
+msgid "Menu Font"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:79
+msgid "The selected font can apply for header menu."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:83
+msgid "Page Title Font"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:109
+msgid "The selected font can apply for page titles."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:116
+#, php-format
+msgid "Heading H%s Font"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:142
+#, php-format
+msgid "The selected font can apply for heading H%s."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:147
+msgid "Google Font Style & Weight"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:159
+msgid "Some of the fonts in the Google Font Directory support multiple styles."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:163
+msgid "Google Font Subset"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:166
+msgid ""
+"Specify which subsets should be downloaded. Multiple subsets should be "
+"separated with comma (,)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:171
+msgid "Custom Fonts"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:175
+msgid "Custom Font Name"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:178
+#: ../framework/theme-options/fonts.php:221
+msgid "Please use only letters or spaces, eg. Patua One"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:182
+msgid "Custom Font (.woff)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:187
+msgid "Upload .woff file for above custom font."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:191
+msgid "Custom Font (.ttf)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:196
+msgid "Upload .ttf file for above custom font."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:200
+msgid "Custom Font (.svg)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:205
+msgid "Upload .svg file for above custom font."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:209
+msgid "Custom Font (.eot)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:214
+msgid "Upload .eot file for above custom font."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:218
+msgid "Custom Font 2 Name"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:225
+msgid "Custom Font 2 (.woff)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:230
+msgid "Upload .woff file for above custom font 2."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:234
+msgid "Custom Font 2 (.ttf)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:239
+msgid "Upload .ttf file for above custom font 2."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:243
+msgid "Custom Font 2 (.svg)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:248
+msgid "Upload .svg file for above custom font 2."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:252
+msgid "Custom Font 2 (.eot)"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:257
+msgid "Upload .eot file for above custom font 2."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:275
+msgid "This font size will be used for all theme texts."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:279
+msgid "This font size will be used for top level only."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:284
+msgid "Heading H1"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:285
+msgid "This is Heading I font size."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:288
+msgid "Heading H2"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:289
+msgid "This is Heading II font size."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:294
+msgid "Heading H3"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:295
+msgid "This is Heading III font size."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:299
+msgid "Heading H4"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:300
+msgid "This is Heading IV font size."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:305
+msgid "Heading H5"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:306
+msgid "This is Heading V font size."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:309
+msgid "Heading H6"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:310
+msgid "This is Heading VI font size."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:314
+msgid "Footer Content"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:315
+msgid "This font size will be used for all footer texts."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:336
+#: ../framework/theme-options/fonts.php:352
+msgid "Normal"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:341
+msgid "The selected font weight can apply for menu links."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:349
+#: ../framework/theme-options/fonts.php:394
+#, php-format
+msgid "Heading H%s"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:357
+#, php-format
+msgid "The selected font weight can apply for H%s texts."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:381
+#: ../framework/theme-options/fonts.php:397
+msgid "Choose any one"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:386
+msgid "This letter spacing will be used for all menu links."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:402
+#, php-format
+msgid "This is Heading H%s letter spacing."
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:416
+msgid "Line Height"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:421
+msgid "Body Line Height"
+msgstr ""
+
+#: ../framework/theme-options/fonts.php:422
+msgid "This line height will be applied for body contents."
+msgstr ""
+
+#: ../framework/theme-options/general.php:8
+#: ../framework/theme-options/general.php:90
+msgid "Responsive"
+msgstr ""
+
+#: ../framework/theme-options/general.php:9
+#: ../framework/theme-options/general.php:126
+msgid "Advanced"
+msgstr ""
+
+#: ../framework/theme-options/general.php:21
+msgid "Enable Nice Scroll"
+msgstr ""
+
+#: ../framework/theme-options/general.php:29
+msgid "YES! to use nice scroll for this site."
+msgstr ""
+
+#: ../framework/theme-options/general.php:33
+msgid "Globally Show Page Comments"
+msgstr ""
+
+#: ../framework/theme-options/general.php:41
+msgid ""
+"YES! to show comments on all the pages. This will globally override your "
+"\"Allow comments\" option under your page \"Discussion\" settings."
+msgstr ""
+
+#: ../framework/theme-options/general.php:45
+msgid "Show all pages in Pagination"
+msgstr ""
+
+#: ../framework/theme-options/general.php:53
+msgid "YES! to show all the pages instead of dots near the current page."
+msgstr ""
+
+#: ../framework/theme-options/general.php:58
+msgid "Style Picker"
+msgstr ""
+
+#: ../framework/theme-options/general.php:66
+msgid "YES! to show the style picker."
+msgstr ""
+
+#: ../framework/theme-options/general.php:70
+msgid "Loader Animation"
+msgstr ""
+
+#: ../framework/theme-options/general.php:78
+msgid "YES! to show loading animation."
+msgstr ""
+
+#: ../framework/theme-options/general.php:94
+msgid "Make My Site Responsive"
+msgstr ""
+
+#: ../framework/theme-options/general.php:102
+msgid "YES! to check responsive version for your website."
+msgstr ""
+
+#: ../framework/theme-options/general.php:106
+msgid "Show Slider for Mobile Devices"
+msgstr ""
+
+#: ../framework/theme-options/general.php:114
+msgid "YES! to show the slider area of your website on mobile devices."
+msgstr ""
+
+#: ../framework/theme-options/general.php:130
+msgid "Static CSS"
+msgstr ""
+
+#: ../framework/theme-options/general.php:138
+msgid "YES! to use Static CSS files instead of Theme Options."
+msgstr ""
+
+#: ../framework/theme-options/general.php:142
+msgid "Replace Buddha Panel Logo"
+msgstr ""
+
+#: ../framework/theme-options/general.php:159
+msgid "YES! to replace Buddha Panel Logo & Upload your own logo."
+msgstr ""
+
+#: ../framework/theme-options/import.php:7
+#: ../framework/theme-options/import.php:17
+msgid "Import Demo"
+msgstr ""
+
+#: ../framework/theme-options/import.php:21
+msgid ""
+"Before starting the import, you need to install all plugins that you want to "
+"use.<br />If you are planning to use the shop, please install WooCommerce "
+"plugin."
+msgstr ""
+
+#: ../framework/theme-options/import.php:23
+#: ../framework/theme-options/settings.php:52
+msgid "Importer"
+msgstr ""
+
+#: ../framework/theme-options/import.php:29
+msgid "Online Demo"
+msgstr ""
+
+#: ../framework/theme-options/import.php:36
+msgid "Import"
+msgstr ""
+
+#: ../framework/theme-options/import.php:43
+msgid "Options"
+msgstr ""
+
+#: ../framework/theme-options/import.php:44
+msgid "Widgets"
+msgstr ""
+
+#: ../framework/theme-options/import.php:56
+msgid "Pages"
+msgstr ""
+
+#: ../framework/theme-options/import.php:58
+#: ../framework/theme-options/pageoptions.php:9
+#: ../framework/theme-options/pageoptions.php:312
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework/theme-options/import.php:59
+msgid "Contact Forms"
+msgstr ""
+
+#: ../framework/theme-options/import.php:60
+msgid "Media"
+msgstr ""
+
+#: ../framework/theme-options/import.php:70
+msgid "Attachments"
+msgstr ""
+
+#: ../framework/theme-options/import.php:73
+msgid "Import attachments"
+msgstr ""
+
+#: ../framework/theme-options/import.php:74
+msgid ""
+"Download all attachments from the demo may take a while. Please be patient."
+msgstr ""
+
+#: ../framework/theme-options/import.php:83
+msgid "Import demo data"
+msgstr ""
+
+#: ../framework/theme-options/import.php:83
+msgid "Import Demo Data"
+msgstr ""
+
+#: ../framework/theme-options/init.php:9
+msgid " Theme Options"
+msgstr ""
+
+#: ../framework/theme-options/init.php:9
+msgid " Options"
+msgstr ""
+
+#: ../framework/theme-options/init.php:43
+msgid "Error: Options not saved, please try again."
+msgstr ""
+
+#: ../framework/theme-options/init.php:52
+#: ../framework/theme-options/init.php:57
+msgid "Options Saved."
+msgstr ""
+
+#: ../framework/theme-options/init.php:157
+msgid "Pattern"
+msgstr ""
+
+#: ../framework/theme-options/init.php:158
+msgid "Custom Background"
+msgstr ""
+
+#: ../framework/theme-options/init.php:159
+msgid "None"
+msgstr ""
+
+#: ../framework/theme-options/init.php:162
+msgid "Background Type"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:10
+#: ../framework/theme-options/layout.php:1132
+#: ../framework/theme-options/layout.php:1182
+msgid "Sociable"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:12
+msgid "Custom Css &amp; Js"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:20
+#: ../framework/theme-options/layout.php:48
+msgid "Logo"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:27
+msgid "Custom Image Logo"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:28
+msgid "Display Site Title"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:43
+msgid ""
+"You can choose whether you wish to display a custom logo or your site title."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:55
+msgid ""
+"Upload a logo for your theme, or specify the image url of your on-line logo."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:59
+msgid "Dark BG Logo"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:66
+msgid ""
+"Upload a dark bg logo for your theme, or specify the image url of your on-"
+"line logo."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:75
+msgid "Favicon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:79
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:86
+msgid "Upload a favicon for your theme, or specify the oneline URL for favicon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:90
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:97
+msgid ""
+"Upload your custom iPhone icon (57px by 57px), or specify the oneline URL "
+"for favicon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:101
+msgid "Apple iPhone Retina Icon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:108
+msgid ""
+"Upload your custom iPhone retina icon (114px by 114px), or specify the "
+"oneline URL for favicon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:112
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:119
+msgid ""
+"Upload your custom iPad icon (72px by 72px), or specify the oneline URL for "
+"favicon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:123
+msgid "Apple iPad Retina Icon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:130
+msgid ""
+"Upload your custom iPad retina icon (144px by 144px), or specify the oneline "
+"URL for favicon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:142
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:150
+msgid "Yes! to show breadcrumbs for all pages here"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:154
+msgid "Breadcrumb Delimiter"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:156
+msgid "Double Right"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:157
+msgid "Sort"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:157
+msgid "Arrow Circle Right"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:157
+msgid "Angle Right"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:158
+msgid "Caret Right"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:158
+msgid "Double Angle Right"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:159
+msgid "Arrow Right"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:159
+msgid "Chevron Right"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:160
+msgid "Hand Right"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:160
+msgid "Plus"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:161
+msgid "Glass"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:167
+msgid "Select the symbol that will appear in between your breadcrumbs"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:170
+msgid "Breadcrumb Dark BG"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:178
+msgid "Yes! to show dark bg for breadcrumb in all the pages"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:182
+msgid "Breadcrumb Style"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:184
+msgid "Align Center"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:185
+msgid "Align Right"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:185
+msgid "Left Side Breadcrumb"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:186
+msgid "Right Side Breadcrumb"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:186
+msgid "Top Right Title Center"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:187
+msgid "Top Left Title Center"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:194
+msgid "Select the style that will be added to your breadcrumbs"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:198
+msgid "Sub Title Background"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:262
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:266
+msgid "Put a valid mailchimp account api key here"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:272
+msgid "Choose the Layout Style(Boxed / Fullwidth)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:292
+msgid "Boxed Layout Background BG"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:306
+msgid "Choose Patterns"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:320
+msgid ""
+"Choose background pattern, you can add patterns by placing .png files in the "
+"folder "
+msgstr ""
+
+#: ../framework/theme-options/layout.php:326
+msgid "Boxed Layout Background Pattern repeat"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:336
+msgid "Select how would you like to repeat the pattern image"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:342
+#: ../framework/theme-options/layout.php:416
+#: ../framework/theme-options/pageoptions.php:659
+#: ../framework/theme-options/pageoptions.php:933
+msgid "Show Background Color"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:347
+msgid "Choose Background Color"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:350
+msgid "Pick a custom background color of the theme.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:367
+msgid "Boxed Layout Background Image"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:376
+msgid "Upload an image for the theme's background"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:384
+#: ../framework/theme-options/layout.php:1280
+#: ../framework/theme-options/pageoptions.php:628
+#: ../framework/theme-options/pageoptions.php:902
+msgid "Background Image Repeat"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:391
+#: ../framework/theme-options/layout.php:1300
+#: ../framework/theme-options/pageoptions.php:635
+#: ../framework/theme-options/pageoptions.php:909
+msgid "Background Image Position"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:426
+msgid "Pick a background color of the theme.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:445
+msgid "Header Style"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:449
+msgid "Header Types"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:450
+msgid "Choose the header type"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:475
+msgid "Enable Sticky Navigation"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:483
+msgid "YES! to use sticky header for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:487
+msgid "Header Dark BG"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:495
+msgid "YES! to use dark bg header for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:501
+msgid "Header Position"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:512
+msgid "Select header Position for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:516
+msgid "Header Transparency"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:527
+msgid "Select header Transparency for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:534
+msgid "Header Background"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:542
+msgid "Upload an image for the header background."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:554
+msgid "Select how would you like to repeat the background image."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:565
+msgid "Select how would you like to position the background."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:571
+msgid "Enable Top Bar"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:577
+msgid "YES! to enable top bar"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:583
+msgid "Any code you place here will appear above header of your site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:600
+msgid "Menu Active Style"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:610
+msgid ""
+"Choose type of menu active for this site. Note: It can't use overlay header."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:615
+msgid "Search Icon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:623
+msgid "YES! to show search icon for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:627
+msgid "Top Left Content"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:632
+msgid ""
+"This content will appear top left side of menu, <br>applies only for "
+"selected headers."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:639
+msgid "Cart Icon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:647
+msgid "YES! to show cart icon for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:651
+msgid "Top Right Content"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:656
+msgid ""
+"This content will appear top right side of menu, <br>applies only for "
+"selected headers."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:663
+msgid "Left Header Content"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:668
+msgid "This content will appear bottom of menu, <br>applies only left header."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:677
+msgid "Sub Menu or Mega Menu"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:680
+msgid "Mega Menu & Sub Menu Container Options"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:682
+msgid "Hover Animation"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:712
+msgid "Select sub menu hover animation for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:716
+msgid "Border"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:724
+msgid "YES! to show menu border for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:728
+#: ../framework/theme-options/layout.php:920
+#: ../framework/theme-options/layout.php:1077
+msgid "Border Width"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:732
+#: ../framework/theme-options/layout.php:924
+msgid "Top (in px)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:736
+#: ../framework/theme-options/layout.php:928
+msgid "Right (in px)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:740
+#: ../framework/theme-options/layout.php:932
+msgid "Bottom (in px)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:744
+#: ../framework/theme-options/layout.php:936
+msgid "Left (in px)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:747
+msgid "Set border width of menu container for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:750
+#: ../framework/theme-options/layout.php:942
+#: ../framework/theme-options/layout.php:1087
+msgid "Border Style"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:754
+#: ../framework/theme-options/layout.php:946
+#: ../framework/theme-options/layout.php:1089
+msgid "Dotted"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:754
+#: ../framework/theme-options/layout.php:946
+#: ../framework/theme-options/layout.php:1089
+msgid "Dashed"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:754
+#: ../framework/theme-options/layout.php:946
+#: ../framework/theme-options/layout.php:1089
+msgid "Solid"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:754
+#: ../framework/theme-options/layout.php:946
+#: ../framework/theme-options/layout.php:1089
+#: ../framework/theme-options/layout.php:1113
+msgid "Double"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:755
+#: ../framework/theme-options/layout.php:947
+#: ../framework/theme-options/layout.php:1090
+msgid "Groove"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:755
+#: ../framework/theme-options/layout.php:947
+#: ../framework/theme-options/layout.php:1090
+msgid "Ridge"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:761
+msgid "Select border style of menu container for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:764
+#: ../framework/theme-options/layout.php:956
+#: ../framework/theme-options/layout.php:1081
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:770
+msgid "Set a custom border color of the menu container.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:773
+#: ../framework/theme-options/layout.php:909
+#: ../framework/theme-options/layout.php:1027
+msgid "Border Radius"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:777
+msgid "Top Left (in px)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:781
+msgid "Top Right (in px)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:785
+msgid "Bottom Right (in px)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:789
+msgid "Bottom Left (in px)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:792
+msgid "Set border radius of menu container for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:797
+msgid "Box Shadow"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:804
+msgid "YES! to show box shadow for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:808
+msgid "Background"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:816
+msgid "Set a custom background color of the menu container.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:819
+msgid "Gradient Background"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:833
+msgid "Set a custom gradient color of the menu container."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:836
+#: ../framework/theme-options/pageoptions.php:611
+#: ../framework/theme-options/pageoptions.php:885
+msgid "Background Image"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:843
+msgid "YES! to show background image for menu items."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:847
+msgid "Mega Menu Column Title"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:861
+#: ../framework/theme-options/layout.php:978
+msgid "Hover Color"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:866
+msgid "Pick a default color options of the menu title.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:871
+#: ../framework/theme-options/layout.php:986
+msgid "With Background"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:878
+msgid "YES! to show mega menu column title background for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:883
+#: ../framework/theme-options/layout.php:1001
+msgid "BG Color"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:895
+#: ../framework/theme-options/layout.php:1013
+msgid "Hover BG Color"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:901
+#: ../framework/theme-options/layout.php:1019
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:906
+msgid "Pick a custom color options of the menu title.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:915
+#: ../framework/theme-options/layout.php:1033
+msgid "Set border radius value, when using background color."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:939
+msgid "Set border width of menu title for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:953
+msgid "Select border style of menu title for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:962
+msgid "Set a custom border color of the menu title.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:966
+msgid "Mega Menu & Sub Menu Links"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:983
+msgid "Pick a default color options of the menu link.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:994
+msgid "YES! to show menu links background for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1024
+msgid "Pick a custom color options of the menu link.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1038
+msgid "With Hover Border"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1046
+msgid "YES! to show menu links hover border for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1051
+msgid "Hover Border Color"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1057
+msgid "Set a custom hover border color of the menu link.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1062
+msgid "With Bottom Border"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1070
+msgid "YES! to show menu links border for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1097
+msgid "Pick bottom border options for menu link."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1100
+msgid "Default Arrow"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1104
+msgid "Enable Arrow"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1111
+msgid "Arrow Style"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1113
+msgid "Single"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1113
+msgid "Disc"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1120
+msgid "Pick a default arrow & it style of the menu link."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1137
+msgid "Show Sociable"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1144
+msgid "Add New Sociable"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1146
+msgid "YES! to show social icons & Add new to the list to display"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1165
+#: ../framework/theme-options/layout.php:1186
+msgid "Sociable Icon"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1167
+#: ../framework/theme-options/layout.php:1187
+msgid "Sociable Link"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1213
+msgid "Enable Footer Columns"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1221
+msgid "YES! to use footer columns for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1226
+msgid "Footer Dark BG"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1234
+msgid "YES! to use dark background footer for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1241
+msgid "Footer Column Layout"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1242
+msgid "Select a perfect column layout style for your theme's footer."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1263
+msgid "Footer Background Image"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1270
+msgid ""
+"Upload an image for footer background, or specify the image url directly"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1317
+msgid "Copyright Section"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1323
+msgid "Show Copyright Text"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1331
+msgid "YES! to show copyright text."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1337
+msgid ""
+"Enter copyright text in this box. <br>This will be automatically added to "
+"the footer."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1343
+msgid "Copyright Dark BG"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1351
+msgid "YES! to use dark bg copyright for this site."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1365
+msgid "Custom CSS"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1369
+msgid "Enable Custom CSS"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1377
+msgid "YES! to use custom CSS."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1382
+msgid "Enter your custom CSS code here."
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1390
+msgid "Custom JS"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1394
+msgid "Enable Custom JS"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1402
+msgid "YES! to use custom JS"
+msgstr ""
+
+#: ../framework/theme-options/layout.php:1407
+msgid ""
+"Enter your custom JS code here. <br><b>To use jQuery code wrap it into "
+"jQuery(function($){ ... });</b>"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:7
+msgid "Medical Add-on"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:18
+msgid "Doctor Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:59
+msgid "Style 1"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:63
+msgid "Style 2"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:69
+msgid "Choose the doctor post layout style"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:125
+msgid "Single Doctor slug"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:128
+msgid ""
+"Do not use characters not allowed in links. Use, eg. doctor-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:132
+msgid "Doctor Deparetment slug"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:135
+msgid ""
+"Do not use characters not allowed in links. Use, eg. doctor-types <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:140
+msgid "Singular Doctor Name"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:143
+msgid "By default \"Doctor\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/medical.php:148
+msgid "Plural Doctor Name"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:151
+msgid "By default \"Doctors\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/medical.php:156
+msgid "Singular Doctor Deparetment Name"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:159
+msgid "By default \"Deparetment\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/medical.php:164
+msgid "Plural Doctor Deparetment Name"
+msgstr ""
+
+#: ../framework/theme-options/medical.php:167
+msgid "By default Departments\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/models.php:8
+#: ../framework/theme-options/settings.php:41
+msgid "Models"
+msgstr ""
+
+#: ../framework/theme-options/models.php:17
+msgid "Model Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/models.php:51
+msgid "Single Model slug"
+msgstr ""
+
+#: ../framework/theme-options/models.php:54
+msgid ""
+"Do not use characters not allowed in links. Use, eg. model-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/models.php:58
+msgid "Model Category slug"
+msgstr ""
+
+#: ../framework/theme-options/models.php:61
+msgid ""
+"Do not use characters not allowed in links. Use, eg. model-types <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/models.php:66
+msgid "Singular Model Name"
+msgstr ""
+
+#: ../framework/theme-options/models.php:69
+msgid "By default \"Model\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/models.php:73
+msgid "Plural Model Name"
+msgstr ""
+
+#: ../framework/theme-options/models.php:76
+msgid "By default \"Models\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/models.php:81
+msgid "Singular Model Category Name"
+msgstr ""
+
+#: ../framework/theme-options/models.php:84
+#: ../framework/theme-options/programs.php:155
+#: ../framework/theme-options/restaurant.php:148
+#: ../framework/theme-options/rooms.php:156
+msgid "By default \"Category\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/models.php:88
+msgid "Plural Model Category Name"
+msgstr ""
+
+#: ../framework/theme-options/models.php:91
+#: ../framework/theme-options/programs.php:162
+#: ../framework/theme-options/restaurant.php:155
+#: ../framework/theme-options/rooms.php:163
+msgid "By default \"Categories\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:10
+msgid "404"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:11
+msgid "Hooks"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:12
+#: ../framework/theme-options/pageoptions.php:786
+msgid "Under Construction"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:26
+msgid "Single Author Box"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:35
+msgid "YES! to display author box in single blog posts."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:39
+msgid "Single Related Posts"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:48
+msgid "YES! to display related blog posts in single posts."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:55
+msgid "Posts Comments"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:64
+msgid "YES! to display single blog post comments."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:72
+msgid "Post Archives Page Layout"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:77
+msgid "Choose the Post archives page layout Style"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:120
+msgid "Post Archives Post Layout"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:126
+msgid "Choose the Post Layout Style in Post Archives"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:130
+#: ../framework/theme-options/rooms.php:75
+msgid "One post per row."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:153
+msgid "YES! to allow excerpt"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:164
+msgid "Enter Excerpt Length"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:183
+msgid "Read More Shortcode"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:189
+msgid "Paste any button shortcode here"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:195
+msgid "Single Post & Post Archive options"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:200
+msgid "Single Post Style"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:210
+msgid "Medium Hightlight"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:217
+msgid "Choose post style to display single blog posts and archives."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:222
+msgid "Post Format Meta"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:231
+msgid "YES! to show post format meta information"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:235
+msgid "Author Meta"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:244
+msgid "YES! to show post author meta information"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:250
+msgid "Date Meta"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:259
+msgid "YES! to show post date meta information"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:263
+msgid "Comment Meta"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:272
+msgid "YES! to show post comment meta information"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:278
+msgid "Category Meta"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:287
+msgid "YES! to show post category information"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:291
+msgid "Tag Meta"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:300
+msgid "YES! to show post tag information"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:318
+msgid "Single Related Portfolios"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:327
+msgid "YES! to show related portfolio items in single portfolio."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:332
+#: ../framework/theme-options/pageoptions.php:439
+#: ../framework/theme-options/yoga.php:12
+msgid "Style"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:345
+#: ../framework/theme-options/pageoptions.php:454
+msgid "Choose post style to display related portfolio items."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:353
+msgid "Portfolios Comment"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:361
+msgid "YES! to display comments in single portfolios."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:366
+msgid "Portfolio Archives Page Layout"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:371
+msgid "Choose the Portfolio archives page layout Style"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:414
+msgid "Portfolio Archives Post Layout"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:420
+msgid "Choose the Post Layout Style in Portfolio Archives"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:426
+#: ../framework/theme-options/rooms.php:76
+msgid "Four posts per row."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:471
+msgid "YES! to allow grid space"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:476
+msgid "Allow Full Width"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:485
+msgid "YES! to allow full width"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:491
+msgid "Portfolio Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:497
+msgid "You can create custom fields like name, url and date etc"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:525
+msgid "Single Portfolio slug"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:528
+msgid ""
+"Do not use characters not allowed in links. Use, eg. portfolio-item <br> "
+"<b>After change go to Settings > Permalinks and click Save changes.</b>"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:532
+msgid "Portfolio Category slug"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:535
+msgid ""
+"Do not use characters not allowed in links. Use, eg. portfolio-types <br> "
+"<b>After change go to Settings > Permalinks and click Save changes.</b>"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:546
+msgid "404 Message"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:551
+msgid "Enable Message"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:559
+msgid "YES! to enable not-found page message."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:563
+#: ../framework/theme-options/pageoptions.php:802
+msgid "Template Style"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:567
+#: ../framework/theme-options/pageoptions.php:806
+msgid "Diamond"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:567
+msgid "Shadow"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:567
+msgid "Diamond Alt"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:567
+#: ../framework/theme-options/woocommerce.php:39
+msgid "Stack"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:567
+#: ../framework/theme-options/pageoptions.php:806
+msgid "Minimal"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:574
+msgid "Choose the style of not-found template page."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:580
+msgid "404 Dark BG"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:588
+msgid "YES! to use dark bg notfound page for this site."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:592
+#: ../framework/theme-options/pageoptions.php:833
+msgid "Custom Page"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:594
+#: ../framework/theme-options/pageoptions.php:835
+msgid "Choose the page"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:603
+msgid "Choose the page for not-found content."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:608
+#: ../framework/theme-options/pageoptions.php:882
+msgid "Background Options"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:620
+msgid "Upload an image for not-found page's background"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:661
+#: ../framework/theme-options/pageoptions.php:935
+msgid "YES! to use background color."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:670
+#: ../framework/theme-options/pageoptions.php:944
+msgid "Pick a background color of the page.(e.g. #a314a3)"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:677
+#: ../framework/theme-options/pageoptions.php:951
+msgid "Set the background color opacity."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:680
+#: ../framework/theme-options/pageoptions.php:954
+msgid "Background Style"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:684
+#: ../framework/theme-options/pageoptions.php:958
+msgid "Paste CSS code for background style."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:696
+msgid "Top"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:700
+msgid "Enable Top Hook"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:708
+msgid "YES! to enable top hook."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:713
+msgid "Paste your top hook, Executes after the opening &lt;body&gt; tag.</b>"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:717
+msgid "Content Before"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:721
+msgid "Enable Content Before Hook"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:729
+msgid "YES! to enable content before hook."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:734
+msgid ""
+"Paste your content before hook, Executes before the opening &lt;#Wrapper&gt; "
+"tag.</b>"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:738
+msgid "Content After"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:742
+msgid "Enable Content After Hook"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:750
+msgid "YES! to enable content after hook."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:755
+msgid ""
+"Paste your content after hook, Executes after the closing &lt;/#Wrapper&gt; "
+"tag.</b>"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:759
+msgid "Bottom"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:763
+msgid "Enable Bottom Hook"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:771
+msgid "YES! to enable bottom hook."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:776
+msgid ""
+"Paste your bottom hook, Executes after the closing &lt;/body&gt; tag.</b>"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:790
+msgid "Enable Coming Soon"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:798
+msgid "YES! to check under construction page of your website."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:806
+msgid "Teaser"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:807
+msgid "Counter Only"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:807
+msgid "Belt"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:808
+#: ../framework/theme-options/woocommerce.php:37
+msgid "Boxed"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:815
+msgid "Choose the style of coming soon template."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:821
+msgid "Coming Soon Dark BG"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:829
+msgid "YES! to use dark bg coming soon page for this site."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:844
+msgid "Choose the page for comingsoon content."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:849
+msgid "Show Launch Date"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:857
+msgid "YES! to show launch date text."
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:862
+msgid "Launch Date"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:864
+msgid "Put Format: 12/30/2016 12:00:00 month/day/year hour:minute:second"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:867
+msgid "UTC Timezone"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:877
+msgid "Choose utc timezone, by default UTC:00:00"
+msgstr ""
+
+#: ../framework/theme-options/pageoptions.php:894
+msgid "Upload an image for coming soon page's background"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:8
+#: ../framework/theme-options/settings.php:42
+msgid "Programs"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:17
+msgid "Program Archives Page Layout"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:22
+msgid "Choose the Program archives page layout Style"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:66
+msgid "Program Archives Post Layout"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:71
+msgid "Choose the Post Layout Style in Program Archives"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:88
+msgid "Program Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:122
+msgid "Single Program slug"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:125
+#: ../framework/theme-options/yoga.php:322
+msgid ""
+"Do not use characters not allowed in links. Use, eg. program-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:129
+msgid "Program Category slug"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:132
+msgid ""
+"Do not use characters not allowed in links. Use, eg. program-types <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:137
+msgid "Singular Program Name"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:140
+msgid "By default \"Program\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/programs.php:144
+msgid "Plural Program Name"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:147
+msgid "By default \"Programs\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/programs.php:152
+msgid "Singular Program Category Name"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:159
+msgid "Plural Program Category Name"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:171
+msgid "Trainer Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:206
+msgid "Singular Trainer Name"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:209
+msgid "By default \"Trainer\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/programs.php:213
+msgid "Plural Trainer Name"
+msgstr ""
+
+#: ../framework/theme-options/programs.php:216
+msgid "By default \"Trainers\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:8
+#: ../framework/theme-options/settings.php:45
+msgid "Restaurant"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:17
+msgid "Menu Archives Page Layout"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:22
+msgid "Choose the Menu archives page layout Style"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:66
+msgid "Menu Archives Post Layout"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:71
+msgid "Choose the Post Layout Style in Menu Archives"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:88
+msgid "Menu Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:122
+msgid "Menu Category slug"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:125
+msgid ""
+"Do not use characters not allowed in links. Use, eg. menu-types <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:130
+msgid "Singular Menu Name"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:133
+msgid "By default \"Menu\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:137
+msgid "Plural Menu Name"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:140
+msgid "By default \"Menus\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:145
+msgid "Singular Menu Category Name"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:152
+msgid "Plural Menu Category Name"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:164
+msgid "Chef Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:198
+msgid "Single Chef slug"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:201
+msgid ""
+"Do not use characters not allowed in links. Use, eg. chef-item <br> <b>After "
+"made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:205
+msgid "Singular Chef Name"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:208
+msgid "By default \"Chef\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:212
+msgid "Plural Chef Name"
+msgstr ""
+
+#: ../framework/theme-options/restaurant.php:215
+msgid "By default \"Chefs\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:8
+#: ../framework/theme-options/settings.php:47
+msgid "Rooms"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:17
+msgid "Room Archives Page Layout"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:22
+msgid "Choose the room archives page layout Style"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:66
+msgid "Room Archives Post Layout"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:71
+msgid "Choose the Post Layout Style in Room Archives"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:89
+msgid "Room Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:123
+msgid "Single Room slug"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:126
+msgid ""
+"Do not use characters not allowed in links. Use, eg. room-item <br> <b>After "
+"made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:130
+msgid "Room Category slug"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:133
+msgid ""
+"Do not use characters not allowed in links. Use, eg. room-types <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:138
+msgid "Singular Room Name"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:141
+msgid "By default \"Room\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:145
+msgid "Plural Room Name"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:148
+msgid "By default \"Rooms\". save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:153
+msgid "Singular Room Category Name"
+msgstr ""
+
+#: ../framework/theme-options/rooms.php:160
+msgid "Plural Room Category Name"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:11
+msgid "loader"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:30
+msgid "dtlogo"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:38
+#: ../framework/theme-options/widgetarea.php:51
+msgid "Widget Area"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:39
+msgid "Page Options"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:40
+#: ../framework/theme-options/woocommerce.php:7
+#: ../framework/theme-options/woocommerce.php:16
+msgid "WooCommerce"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:43
+msgid "Medical"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:44
+msgid "Attorney"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:46
+msgid "University"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:48
+msgid "Yoga"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:50
+msgid "Colors"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:51
+msgid "Fonts"
+msgstr ""
+
+#: ../framework/theme-options/settings.php:54
+msgid " Version "
+msgstr ""
+
+#: ../framework/theme-options/settings.php:91
+msgid "Reset All"
+msgstr ""
+
+#: ../framework/theme-options/university.php:7
+msgid "Course"
+msgstr ""
+
+#: ../framework/theme-options/university.php:10
+msgid "Faculty"
+msgstr ""
+
+#: ../framework/theme-options/university.php:22
+#: ../framework/theme-options/university.php:112
+#, php-format
+msgid "%s Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/university.php:42
+#: ../framework/theme-options/university.php:56
+msgid "Icon :"
+msgstr ""
+
+#: ../framework/theme-options/university.php:47
+#: ../framework/theme-options/university.php:60
+msgid "Text :"
+msgstr ""
+
+#: ../framework/theme-options/university.php:77
+#: ../framework/theme-options/university.php:148
+#: ../framework/theme-options/university.php:268
+#: ../framework/theme-options/yoga.php:38
+#: ../framework/theme-options/yoga.php:78
+#: ../framework/theme-options/yoga.php:150
+#: ../framework/theme-options/yoga.php:191
+#: ../framework/theme-options/yoga.php:226
+#: ../framework/theme-options/yoga.php:261
+#: ../framework/theme-options/yoga.php:318
+#: ../framework/theme-options/yoga.php:353
+#, php-format
+msgid "Single %s slug"
+msgstr ""
+
+#: ../framework/theme-options/university.php:81
+#: ../framework/theme-options/university.php:152
+msgid ""
+"Do not use characters not allowed in links. Use, eg. course-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/university.php:86
+#: ../framework/theme-options/university.php:157
+#: ../framework/theme-options/university.php:277
+#: ../framework/theme-options/yoga.php:47
+#: ../framework/theme-options/yoga.php:87
+#: ../framework/theme-options/yoga.php:159
+#: ../framework/theme-options/yoga.php:200
+#: ../framework/theme-options/yoga.php:235
+#: ../framework/theme-options/yoga.php:270
+#: ../framework/theme-options/yoga.php:327
+#: ../framework/theme-options/yoga.php:362
+#, php-format
+msgid "Singular %s Name"
+msgstr ""
+
+#: ../framework/theme-options/university.php:90
+#: ../framework/theme-options/university.php:161
+msgid "By default \"Course\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/university.php:95
+#: ../framework/theme-options/university.php:166
+#: ../framework/theme-options/university.php:286
+#: ../framework/theme-options/yoga.php:56
+#: ../framework/theme-options/yoga.php:96
+#: ../framework/theme-options/yoga.php:168
+#: ../framework/theme-options/yoga.php:209
+#: ../framework/theme-options/yoga.php:244
+#: ../framework/theme-options/yoga.php:279
+#: ../framework/theme-options/yoga.php:336
+#: ../framework/theme-options/yoga.php:371
+#, php-format
+msgid "Plural %s Name"
+msgstr ""
+
+#: ../framework/theme-options/university.php:99
+#: ../framework/theme-options/university.php:170
+msgid "By default \"Courses\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/university.php:242
+#, php-format
+msgid "Choose %s Archive post layout style"
+msgstr ""
+
+#: ../framework/theme-options/university.php:248
+msgid "Show Post"
+msgstr ""
+
+#: ../framework/theme-options/university.php:252
+#: ../framework/theme-options/university.php:253
+#, php-format
+msgid "Show %s only"
+msgstr ""
+
+#: ../framework/theme-options/university.php:254
+msgid "Show Both"
+msgstr ""
+
+#: ../framework/theme-options/university.php:272
+msgid ""
+"Do not use characters not allowed in links. Use, eg. department-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/university.php:281
+msgid "By default \"Department\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/university.php:290
+msgid "By default \"Departments\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:7
+msgid "Sidebar"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:16
+msgid "Create New Widget Area"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:20
+msgid ""
+"You can create widget areas here, and assign them in individual page / post"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:22
+msgid "Add New Widget Area"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:33
+msgid "Widget Area:"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:72
+msgid "Sidebar Widget Styles"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:77
+msgid "Sidebar widget Title Style"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:81
+msgid "Choose any  type"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:81
+msgid "Double Border"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:81
+msgid "Tooltip"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:81
+msgid "Title Top Border"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:82
+msgid "Left Border & Pattren"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:82
+msgid "Bottom Border"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:82
+msgid "Tooltip Border"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:82
+msgid "Boxed Modern"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:82
+msgid "Elegant Border"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:83
+msgid "Needle"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:83
+msgid "Ribbon"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:83
+msgid "Content Background"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:83
+msgid "Classic BG"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:83
+msgid "Tiny Boders"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:84
+msgid "BG & Border"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:84
+msgid "Classic BG Alt"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:84
+msgid "Left Border & BG"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:84
+msgid "Basic"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:84
+msgid "BG & Pattern"
+msgstr ""
+
+#: ../framework/theme-options/widgetarea.php:90
+msgid "Choose the style of sidebar widget title."
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:21
+msgid "Products Per Page"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:26
+msgid "Number of products to show in catalog / shop page"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:30
+msgid "Product Style"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:34
+msgid "Thick Border"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:34
+msgid "Pattern Overlay"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:34
+msgid "Thin Border"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:35
+msgid "Diamond Icons"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:35
+msgid "Push Animation"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:36
+msgid "Dual Color BG"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:36
+msgid "Diamond & Border"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:37
+msgid "Easing"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:37
+msgid "Easing Alt"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:38
+msgid "Parallel"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:38
+msgid "Pointer"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:38
+msgid "Diamond Flip"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:39
+msgid "Bouncy"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:39
+msgid "Hexagon"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:40
+msgid "Masked Diamond"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:40
+msgid "Masked Circle"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:46
+msgid "Choose products style to display shop & archive pages."
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:53
+msgid "Choose the Product Layout Style in Catalog / Shop "
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:57
+msgid "Two products per row."
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:57
+msgid "Three products per row."
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:58
+msgid "Four products per row"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:71
+msgid "Product Detail"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:76
+msgid "Choose the Product Page Layout"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:104
+#: ../framework/theme-options/woocommerce.php:165
+#: ../framework/theme-options/woocommerce.php:213
+msgid "Show Shop Standard Sidebar Left"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:112
+#: ../framework/theme-options/woocommerce.php:173
+#: ../framework/theme-options/woocommerce.php:221
+msgid "Show Shop Standard Sidebar Right"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:119
+msgid "Show Related Products"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:127
+msgid "YES! to display related products on single product's page."
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:132
+msgid "Product Category"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:137
+msgid "Choose the Product category page layout Style"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:181
+msgid "Product Tag"
+msgstr ""
+
+#: ../framework/theme-options/woocommerce.php:186
+msgid "Choose the Product tag page layout Style"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:8
+msgid "Pose"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:16
+msgid "Teachers"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:20
+msgid "Video"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:24
+msgid "Program"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:42
+#: ../framework/theme-options/yoga.php:82
+msgid ""
+"Do not use characters not allowed in links. Use, eg. style-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:51
+msgid "By default \"Pose\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:60
+msgid "By default \"Poses\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:91
+msgid "By default \"Style\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:100
+msgid "By default \"Styles\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:114
+msgid "Custom Fields"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:154
+msgid ""
+"Do not use characters not allowed in links. Use, eg. teacher-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:163
+msgid "By default \"Teacher\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:172
+msgid "By default \"Teachers\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:195
+#: ../framework/theme-options/yoga.php:230
+#: ../framework/theme-options/yoga.php:265
+msgid ""
+"Do not use characters not allowed in links. Use, eg. video-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:204
+msgid "By default \"Video\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:213
+msgid "By default \"Videos\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:219
+msgid "Duration"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:239
+#: ../framework/theme-options/yoga.php:274
+msgid "By default \"Duration\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:248
+#: ../framework/theme-options/yoga.php:283
+msgid "By default \"Durations\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:254
+msgid "Student Level"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:294
+#, php-format
+msgid "Premium %s overlay text"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:298
+msgid "Premium Video Overlay text"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:331
+msgid "By default \"program\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:340
+msgid "By default \"Programs\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:346
+msgid "Category"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:357
+msgid ""
+"Do not use characters not allowed in links. Use, eg. category-item <br> "
+"<b>After made changes save permalinks.</b>"
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:366
+msgid "By default \"Category\", save options & reload."
+msgstr ""
+
+#: ../framework/theme-options/yoga.php:375
+msgid "By default \"Categories\", save options & reload."
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:5
+msgid "A widget that show last flickr photo streams"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:6
+msgid " Flickr Widget"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:19
+#: ../framework/widgets/widget-recent-portfolios.php:17
+#: ../framework/widgets/widget-recent-posts.php:19
+#: ../framework/widgets/widget-twitter.php:25
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:23
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:27
+#: ../framework/widgets/widget-twitter.php:49
+msgid "How many entries do you want to show:"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:35
+#: ../framework/widgets/widget-flickr.php:45
+msgid "What pictures to display"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:37
+msgid "Latest"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:37
+msgid "Random"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:47
+msgid "square"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:47
+msgid "thumbnail"
+msgstr ""
+
+#: ../framework/widgets/widget-flickr.php:47
+msgid "medium"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-portfolios.php:5
+msgid "To list out portfolio items"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-portfolios.php:6
+msgid " Portfolio"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-portfolios.php:22
+#: ../framework/widgets/widget-recent-posts.php:24
+msgid "Choose the categories you want to display (multiple selection possible)"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-portfolios.php:35
+#: ../framework/widgets/widget-recent-posts.php:49
+msgid "No.of posts to show:"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-portfolios.php:84
+msgid "No Portfolio Entries found"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-posts.php:5
+msgid "To list out posts"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-posts.php:6
+msgid " Posts"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-posts.php:37
+msgid "Display title only or title &amp; excerpt"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-posts.php:47
+msgid "Show Image"
+msgstr ""
+
+#: ../framework/widgets/widget-recent-posts.php:112
+msgid "No Posts found"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:5
+msgid "To show latest twitter tweets"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:6
+msgid " Twitter Widget"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:11
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:29
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:33
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:37
+msgid "Access Token:"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:41
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:45
+msgid "Enter your twitter username:"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:58
+msgid "Exclude @replies"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:61
+msgid "Show time of tweet"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:64
+msgid "Show user avatar"
+msgstr ""
+
+#: ../framework/widgets/widget-twitter.php:142
+msgid "No public Tweets found"
+msgstr ""
+
+#: ../headers/breadcrumb.php:48
+msgid "Archive for Term: "
+msgstr ""
+
+#: ../headers/breadcrumb.php:51
+msgid "Archive for Category: "
+msgstr ""
+
+#: ../headers/breadcrumb.php:55
+msgid "Archive for Tag: "
+msgstr ""
+
+#: ../headers/breadcrumb.php:59
+msgid "Archive for Month: "
+msgstr ""
+
+#: ../headers/breadcrumb.php:63
+msgid "Archive for Year: "
+msgstr ""
+
+#: ../headers/breadcrumb.php:67
+msgid "Archive for Day: "
+msgstr ""
+
+#: ../headers/breadcrumb.php:72
+msgid "Archive for Author: "
+msgstr ""
+
+#: ../headers/breadcrumb.php:79
+msgid "Search Result for "
+msgstr ""
+
+#: ../headers/breadcrumb.php:83
+msgid "Lost "
+msgstr ""
+
+#: ../headers/breadcrumb.php:84
+msgid "Oops Nothing Found"
+msgstr ""
+
+#: ../headers/breadcrumb.php:87
+msgid "Search Forum"
+msgstr ""
+
+#: ../headers/breadcrumb.php:90
+msgid "Edit Reply"
+msgstr ""
+
+#: ../headers/default.php:17
+msgid "View Shopping Cart"
+msgstr ""
+
+#: ../tribe-events/day/single-event.php:68
+#: ../tribe-events/list/single-event.php:72
+#: ../tribe-events/pro/map/single-event.php:73
+msgid "Find out more"
+msgstr ""
+
+#: ../tribe-events/modules/bar.php:30 ../tribe-events/modules/bar.php:56
+#, php-format
+msgid "Find %s"
+msgstr ""
+
+#: ../tribe-events/pro/single-organizer.php:32
+#: ../tribe-events/pro/single-venue.php:32
+#, php-format
+msgid "&larr; Back to %s"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:4
+#: ../tribe-events/templates/event-type5.php:21
+msgid "All Events"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:6
+#: ../tribe-events/templates/event-type2.php:20
+#: ../tribe-events/templates/event-type3.php:115
+#: ../tribe-events/templates/event-type5.php:22
+msgid "+ Google Calendar"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:8
+#: ../tribe-events/templates/event-type2.php:21
+#: ../tribe-events/templates/event-type3.php:117
+#: ../tribe-events/templates/event-type5.php:23
+msgid "+ iCal Export"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:15
+#: ../tribe-events/templates/event-type2.php:16
+msgid "Recurring Event (See all)"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:43
+#: ../tribe-events/templates/event-type2.php:34
+#: ../tribe-events/templates/event-type3.php:29
+#: ../tribe-events/templates/event-type4.php:27
+#: ../tribe-events/templates/event-type5.php:29
+msgid "Details"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:45
+#: ../tribe-events/templates/event-type2.php:36
+#: ../tribe-events/templates/event-type3.php:35
+#: ../tribe-events/templates/event-type4.php:29
+#: ../tribe-events/templates/event-type5.php:31
+msgid "Start:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:46
+#: ../tribe-events/templates/event-type2.php:37
+#: ../tribe-events/templates/event-type3.php:36
+#: ../tribe-events/templates/event-type4.php:30
+#: ../tribe-events/templates/event-type5.php:32
+msgid "End:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:48
+#: ../tribe-events/templates/event-type2.php:39
+#: ../tribe-events/templates/event-type3.php:38
+#: ../tribe-events/templates/event-type4.php:32
+#: ../tribe-events/templates/event-type5.php:34
+msgid "Cost:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:56
+#: ../tribe-events/templates/event-type1.php:77
+#: ../tribe-events/templates/event-type1.php:102
+#: ../tribe-events/templates/event-type2.php:47
+#: ../tribe-events/templates/event-type2.php:72
+#: ../tribe-events/templates/event-type2.php:102
+#: ../tribe-events/templates/event-type3.php:46
+#: ../tribe-events/templates/event-type3.php:67
+#: ../tribe-events/templates/event-type3.php:94
+#: ../tribe-events/templates/event-type4.php:40
+#: ../tribe-events/templates/event-type4.php:65
+#: ../tribe-events/templates/event-type4.php:107
+#: ../tribe-events/templates/event-type5.php:42
+#: ../tribe-events/templates/event-type5.php:67
+msgid "Website:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:60
+#: ../tribe-events/templates/event-type2.php:55
+#: ../tribe-events/templates/event-type3.php:30
+#: ../tribe-events/templates/event-type4.php:48
+#: ../tribe-events/templates/event-type5.php:50
+msgid "Organizer"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:69
+#: ../tribe-events/templates/event-type1.php:98
+#: ../tribe-events/templates/event-type2.php:64
+#: ../tribe-events/templates/event-type2.php:98
+#: ../tribe-events/templates/event-type3.php:59
+#: ../tribe-events/templates/event-type3.php:90
+#: ../tribe-events/templates/event-type4.php:57
+#: ../tribe-events/templates/event-type4.php:103
+#: ../tribe-events/templates/event-type5.php:59
+msgid "Phone:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:73
+#: ../tribe-events/templates/event-type2.php:68
+#: ../tribe-events/templates/event-type3.php:63
+#: ../tribe-events/templates/event-type4.php:61
+#: ../tribe-events/templates/event-type5.php:63
+msgid "Email:"
+msgstr ""
+
+#: ../tribe-events/templates/event-type1.php:81
+#: ../tribe-events/templates/event-type2.php:80
+#: ../tribe-events/templates/event-type3.php:31
+#: ../tribe-events/templates/event-type4.php:82
+#: ../tribe-events/templates/event-type5.php:73
+msgid "Venue"
+msgstr ""
+
+#: ../tribe-events/templates/event-type2.php:83
+#: ../tribe-events/templates/event-type3.php:79
+msgid "Address:"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:82
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:83
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:84
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:85
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:90
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:99
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""

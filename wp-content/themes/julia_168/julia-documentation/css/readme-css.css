@@ -1,0 +1,134 @@
+body{
+	background-color:#dedede;
+	font-size:14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color:#3a3a3a;
+	line-height:23px;
+	background-image: url(../images/bg.png);
+	background-repeat: repeat;
+	font-family: 'Open Sans', sans-serif;	
+}
+h1,h2,h3,h4{
+	color: #333;
+	font-weight: bold;
+}
+img{
+	max-width: 100%;
+}
+p.alert{
+	background: #ccc;
+    padding: 10px 20px;
+    color: #000;
+    border: 1px solid #abaaaa;
+}
+#wrapper{
+width:1100px;
+margin:30px;
+margin:0 auto;	
+
+}
+.theme_name{
+margin-left:300px;
+}
+.theme_name h1{
+margin-bottom:10px;
+}
+
+.tabscontainer{
+    margin:15px 0px;
+}
+
+.tabscontainer .tabs{
+    list-style: none;
+    width:240px;
+    cursor: pointer;
+    float:left;  
+    left: 0px;
+    z-index: 2;
+	margin:0px;
+	padding:0px;
+	margin-top: 30px;
+	
+}
+
+.tabscontainer .curvedContainer{
+	margin-left:239px;
+	border:1px solid #ccc;
+	min-height:1000px;
+	-moz-border-radius: 13px;
+	border-radius: 13px;
+	background-color:#fff;
+}
+.tabscontainer .curvedContainer .tabcontent{
+	display:none;
+	padding:30px;
+	
+}
+.tabs .tab{
+    display: block;
+    background: #f1f1f1;
+    border-bottom: #ccc solid 1px;
+	border-right: #ccc solid 1px;
+	border-left: #ccc solid 1px;
+    border-top: none;
+    position: relative;
+   	color: #73736b;
+}
+.tabs a.link{
+	padding:10px 10px 5px 15px;
+	display:block;
+	text-decoration:none;
+	font-weight:bold;
+	color:#000000;
+	outline:none;
+	cursor:pointer;
+	font-size: 12px;
+}
+.tabs .selected{   
+	background-color:#fff;
+	border-right:none!important;
+}
+.tabs .tab.first{
+	border-top: #ccc solid 1px;
+	-moz-border-radius-topleft: 13px;
+	border-top-left-radius: 13px;
+}
+
+.tabs .tab.last{
+	-moz-border-radius-bottomleft: 13px;
+	border-bottom-left-radius: 13px;
+}
+.tabs .tab.selected .arrow{
+    display: block;
+}
+
+ol li{
+padding:3px;
+}
+
+
+.note{
+padding:10px;
+border:1px solid #333;
+background-color:#FFFF99;
+}
+
+hr {
+    background: #A7A7A7;
+    height: 3px;    
+    clear: inherit;
+    margin: 35px 0;
+}
+
+.tab_link {
+    text-decoration: none;
+    background: #e6ffe5;
+    padding: 10px 20px;
+    color: #000;
+    margin: 4px 0 27px 0;
+    display: table;
+    border: 1px solid #b2e2b0;
+}
+.tabcontent img {
+    border: 1px solid #eaeaea;
+}
