@@ -15,9 +15,18 @@ function awesome_theme_setup(){
 	register_nav_menu('primary', 'Primary Header Navigation');
 	register_nav_menu('secondary', 'Footer Navigation');
 
+
 }
 
+
+
 add_action('init', 'awesome_theme_setup');
+
+add_theme_support("custom-background");
+add_theme_support("custom-header");
+add_theme_support("post-thumbnails");
+add_theme_support("post-formats", ["aside", "image", "video"]);
+
 
 // function awesome_theme_setup_notreg(){
 

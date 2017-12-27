@@ -22,6 +22,14 @@
 <body <?php body_class($awesome_classes); ?>>
 
  
-	<?php wp_nav_menu(array("theme_location" => "primary")); ?>
+	<?php wp_nav_menu(array("theme_location" => "primary")); 
+
+		var_dump(get_custom_header());
+
+	?>
+
+	<img src=" <?php echo header_image() ?> " alt="" height = "<?php echo get_custom_header()->height; ?>" height = "<?php echo get_custom_header()->width; ?>">
+
+	<img src="<?php echo get_custom_header()->url ?>" alt="" height = " <?php echo get_custom_header()->height; ?> " width = " <?php echo get_custom_header()->width ?> ">
 	
  
